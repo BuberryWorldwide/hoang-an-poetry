@@ -1,8 +1,9 @@
 ---
-title: "Chợ Âm Dương (đoạn kết)"
-date: 07/12/2007
+author: Unknown
 categories: Poetry
+date: 07/12/2007
 layout: post
+title: "Ch\u01A1\u0323 \xC2m D\u01B0\u01A1ng (\u0111oa\u0323n k\xEA\u0301t)"
 ---
 
 **Chợ Âm Dương (đoạn kết)**

@@ -1,8 +1,9 @@
 ---
-title: "Nhớ Nhớ Tình đong"
-date: 18/10/2007
+author: Unknown
 categories: Poetry
+date: 18/10/2007
 layout: post
+title: "Nh\u01A1\u0301 Nh\u01A1\u0301 Ti\u0300nh \u0111ong"
 ---
 
 **Nhớ Nhớ Tình đong**

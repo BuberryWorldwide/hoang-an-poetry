@@ -1,8 +1,10 @@
 ---
-title: "Khi Loà i Thiêu-Thân Chắp Cánh Lửa Cuồng Say"
-date: 31/12/2005
+author: Unknown
 categories: Poetry
+date: 31/12/2005
 layout: post
+title: "Khi Loa\u0300 i Thi\xEAu-Th\xE2n Ch\u0103\u0301p Ca\u0301nh L\u01B0\u0309\
+  a Cu\xF4\u0300ng Say"
 ---
 
 **Khi Loà i Thiêu-Thân Chắp Cánh Lửa Cuồng Say**

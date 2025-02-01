@@ -1,8 +1,9 @@
 ---
-title: "như lòng khăn mới thêu"
-date: 30/12/2012
+author: Unknown
 categories: Poetry
+date: 30/12/2012
 layout: post
+title: "nh\u01B0 lo\u0300ng kh\u0103n m\u01A1\u0301i th\xEAu"
 ---
 
 **như lòng khăn mới thêu**

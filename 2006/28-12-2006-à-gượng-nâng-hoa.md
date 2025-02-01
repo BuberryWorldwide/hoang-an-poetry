@@ -1,9 +1,3 @@
----
-title: "à Gượng Nâng Hoa"
-date: 28/12/2006
-categories: Poetry
-layout: post
----
 
 **à Gượng Nâng Hoa**
 

@@ -1,8 +1,9 @@
 ---
-title: "Ở Giửa Thềm Trăng"
-date: 05/04/2012
+author: Unknown
 categories: Poetry
+date: 05/04/2012
 layout: post
+title: "\u01A0\u0309 Gi\u01B0\u0309a Th\xEA\u0300m Tr\u0103ng"
 ---
 
 **Ở Giửa Thềm Trăng**

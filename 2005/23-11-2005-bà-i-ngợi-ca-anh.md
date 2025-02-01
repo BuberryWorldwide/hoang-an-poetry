@@ -1,8 +1,9 @@
 ---
-title: "Bà i Ngợi-Ca Anh"
-date: 23/11/2005
+author: Unknown
 categories: Poetry
+date: 23/11/2005
 layout: post
+title: "Ba\u0300 i Ng\u01A1\u0323i-Ca Anh"
 ---
 
 **Bà i Ngợi-Ca Anh**

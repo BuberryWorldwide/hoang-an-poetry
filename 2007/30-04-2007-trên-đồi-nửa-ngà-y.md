@@ -1,8 +1,9 @@
 ---
-title: "Trên đồi Nửa Ngà y"
-date: 30/04/2007
+author: Unknown
 categories: Poetry
+date: 30/04/2007
 layout: post
+title: "Tr\xEAn \u0111\xF4\u0300i N\u01B0\u0309a Nga\u0300 y"
 ---
 
 **Trên đồi Nửa Ngà y**

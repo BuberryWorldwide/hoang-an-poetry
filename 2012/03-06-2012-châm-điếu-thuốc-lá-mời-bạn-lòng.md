@@ -1,8 +1,10 @@
 ---
-title: "châm điếu thuốc lá, mời bạn lòng"
-date: 03/06/2012
+author: Unknown
 categories: Poetry
+date: 03/06/2012
 layout: post
+title: "ch\xE2m \u0111i\xEA\u0301u thu\xF4\u0301c la\u0301, m\u01A1\u0300i ba\u0323\
+  n lo\u0300ng"
 ---
 
 **châm điếu thuốc lá, mời bạn lòng**

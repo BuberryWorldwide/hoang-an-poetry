@@ -1,8 +1,9 @@
 ---
-title: "Nhờ GLORIA in D, R. 589--Antonio Vivaldi"
-date: 12/05/2012
+author: Unknown
 categories: Poetry
+date: 12/05/2012
 layout: post
+title: "Nh\u01A1\u0300 GLORIA in D, R. 589--Antonio Vivaldi"
 ---
 
 **Nhờ GLORIA in D, R. 589--Antonio Vivaldi**

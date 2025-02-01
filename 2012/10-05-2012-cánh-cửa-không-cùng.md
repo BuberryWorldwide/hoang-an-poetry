@@ -1,8 +1,9 @@
 ---
-title: "Cánh Cửa Không Cùng"
-date: 10/05/2012
+author: Unknown
 categories: Poetry
+date: 10/05/2012
 layout: post
+title: "Ca\u0301nh C\u01B0\u0309a Kh\xF4ng Cu\u0300ng"
 ---
 
 **Cánh Cửa Không Cùng**

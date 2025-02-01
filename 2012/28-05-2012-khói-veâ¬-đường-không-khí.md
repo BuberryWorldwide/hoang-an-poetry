@@ -1,8 +1,9 @@
 ---
-title: "KHÓI VEÂ¬ đƯỜNG KHÔNG-KHÍ"
-date: 28/05/2012
+author: Unknown
 categories: Poetry
+date: 28/05/2012
 layout: post
+title: "KH\xD3I VE\xC2\xAC \u0111\u01AF\u01A0\u0300NG KH\xD4NG-KH\xCD"
 ---
 
 **KHÓI VEÂ¬ đƯỜNG KHÔNG-KHÍ**

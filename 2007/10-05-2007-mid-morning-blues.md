@@ -1,8 +1,9 @@
 ---
-title: "Mid-Morning Blues"
-date: 10/05/2007
+author: Unknown
 categories: Poetry
+date: 10/05/2007
 layout: post
+title: Mid-Morning Blues
 ---
 
 **Mid-Morning Blues**

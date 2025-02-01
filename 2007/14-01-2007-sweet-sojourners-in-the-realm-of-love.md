@@ -1,8 +1,9 @@
 ---
-title: "Sweet Sojourners In The Realm Of Love"
-date: 14/01/2007
+author: Unknown
 categories: Poetry
+date: 14/01/2007
 layout: post
+title: Sweet Sojourners In The Realm Of Love
 ---
 
 **Sweet Sojourners In The Realm Of Love**

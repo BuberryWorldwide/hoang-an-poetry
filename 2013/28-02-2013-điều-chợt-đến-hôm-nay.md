@@ -1,8 +1,9 @@
 ---
-title: "điều Chợt đến Hôm Nay"
-date: 28/02/2013
+author: Unknown
 categories: Poetry
+date: 28/02/2013
 layout: post
+title: "\u0111i\xEA\u0300u Ch\u01A1\u0323t \u0111\xEA\u0301n H\xF4m Nay"
 ---
 
 **điều Chợt đến Hôm Nay**

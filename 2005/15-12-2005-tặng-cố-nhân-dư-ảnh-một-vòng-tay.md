@@ -1,8 +1,10 @@
 ---
-title: "Tặng Cố-Nhân Dư-Ảnh Một Vòng Tay"
-date: 15/12/2005
+author: Unknown
 categories: Poetry
+date: 15/12/2005
 layout: post
+title: "T\u0103\u0323ng C\xF4\u0301-Nh\xE2n D\u01B0-\u1EA2nh M\xF4\u0323t Vo\u0300\
+  ng Tay"
 ---
 
 **Tặng Cố-Nhân Dư-Ảnh Một Vòng Tay**

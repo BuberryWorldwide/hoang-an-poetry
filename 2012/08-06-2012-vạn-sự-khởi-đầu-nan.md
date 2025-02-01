@@ -1,8 +1,9 @@
 ---
-title: "Vạn Sự Khởi đầu Nan"
-date: 08/06/2012
+author: Unknown
 categories: Poetry
+date: 08/06/2012
 layout: post
+title: "Va\u0323n S\u01B0\u0323 Kh\u01A1\u0309i \u0111\xE2\u0300u Nan"
 ---
 
 **Vạn Sự Khởi đầu Nan**

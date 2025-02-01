@@ -1,8 +1,9 @@
 ---
-title: "Hoa không nở trọn mùa"
-date: 30/07/2007
+author: Unknown
 categories: Poetry
+date: 30/07/2007
 layout: post
+title: "Hoa kh\xF4ng n\u01A1\u0309 tro\u0323n mu\u0300a"
 ---
 
 **Hoa không nở trọn mùa**

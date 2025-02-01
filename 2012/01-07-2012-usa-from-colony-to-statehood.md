@@ -1,8 +1,9 @@
 ---
-title: "USA: From Colony To Statehood"
-date: 01/07/2012
+author: Unknown
 categories: Poetry
+date: 01/07/2012
 layout: post
+title: 'USA: From Colony To Statehood'
 ---
 
 **USA: From Colony To Statehood**

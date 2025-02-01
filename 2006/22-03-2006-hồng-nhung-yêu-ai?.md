@@ -1,8 +1,9 @@
 ---
-title: "Hồng-Nhung Yêu Ai?"
-date: 22/03/2006
+author: Unknown
 categories: Poetry
+date: 22/03/2006
 layout: post
+title: "H\xF4\u0300ng-Nhung Y\xEAu Ai?"
 ---
 
 **Hồng-Nhung Yêu Ai?**

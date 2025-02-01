@@ -1,8 +1,9 @@
 ---
-title: "Sinh Ta Cha Ném Bút Rồng"
-date: 20/12/2005
+author: Unknown
 categories: Poetry
+date: 20/12/2005
 layout: post
+title: "Sinh Ta Cha Ne\u0301m Bu\u0301t R\xF4\u0300ng"
 ---
 
 **Sinh Ta Cha Ném Bút Rồng**

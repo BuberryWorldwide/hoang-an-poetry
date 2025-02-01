@@ -1,8 +1,9 @@
 ---
-title: "Impotency"
-date: 13/10/2007
+author: Unknown
 categories: Poetry
+date: 13/10/2007
 layout: post
+title: Impotency
 ---
 
 **Impotency**

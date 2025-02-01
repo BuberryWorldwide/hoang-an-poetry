@@ -1,8 +1,9 @@
 ---
-title: "Death Metal In The Twilight In A Forgotten Part Of The Town (2)"
-date: 11/01/2007
+author: Unknown
 categories: Poetry
+date: 11/01/2007
 layout: post
+title: Death Metal In The Twilight In A Forgotten Part Of The Town (2)
 ---
 
 **Death Metal In The Twilight In A Forgotten Part Of The Town (2)**

@@ -1,8 +1,9 @@
 ---
-title: "Gentle Knight"
-date: 12/12/2007
+author: Unknown
 categories: Poetry
+date: 12/12/2007
 layout: post
+title: Gentle Knight
 ---
 
 **Gentle Knight**

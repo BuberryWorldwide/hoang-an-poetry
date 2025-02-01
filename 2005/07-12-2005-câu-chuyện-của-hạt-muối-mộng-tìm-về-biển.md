@@ -1,8 +1,10 @@
 ---
-title: "Câu Chuyện Của Hạt Muối Mộng Tìm Về Biển"
-date: 07/12/2005
+author: Unknown
 categories: Poetry
+date: 07/12/2005
 layout: post
+title: "C\xE2u Chuy\xEA\u0323n Cu\u0309a Ha\u0323t Mu\xF4\u0301i M\xF4\u0323ng Ti\u0300\
+  m V\xEA\u0300 Bi\xEA\u0309n"
 ---
 
 **Câu Chuyện Của Hạt Muối Mộng Tìm Về Biển**

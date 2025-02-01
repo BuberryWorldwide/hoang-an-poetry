@@ -1,8 +1,9 @@
 ---
-title: "May I Just Be A Simpleton In Love??"
-date: 12/12/2007
+author: Unknown
 categories: Poetry
+date: 12/12/2007
 layout: post
+title: May I Just Be A Simpleton In Love??
 ---
 
 **May I Just Be A Simpleton In Love??**

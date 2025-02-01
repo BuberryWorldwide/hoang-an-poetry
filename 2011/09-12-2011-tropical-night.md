@@ -1,8 +1,9 @@
 ---
-title: "Tropical Night"
-date: 09/12/2011
+author: Unknown
 categories: Poetry
+date: 09/12/2011
 layout: post
+title: Tropical Night
 ---
 
 **Tropical Night**

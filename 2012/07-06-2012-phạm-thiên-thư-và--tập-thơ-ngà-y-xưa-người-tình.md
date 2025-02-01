@@ -1,8 +1,10 @@
 ---
-title: "Phạm Thiên Thư và  Tập Thơ Ngà y Xưa Người Tình"
-date: 07/06/2012
+author: Unknown
 categories: Poetry
+date: 07/06/2012
 layout: post
+title: "Pha\u0323m Thi\xEAn Th\u01B0 va\u0300  T\xE2\u0323p Th\u01A1 Nga\u0300 y X\u01B0\
+  a Ng\u01B0\u01A1\u0300i Ti\u0300nh"
 ---
 
 **Phạm Thiên Thư và  Tập Thơ Ngà y Xưa Người Tình**

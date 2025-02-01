@@ -1,8 +1,9 @@
 ---
-title: "Xuân Reo Bên Gối Ánh Trăng Thơm"
-date: 27/02/2013
+author: Unknown
 categories: Poetry
+date: 27/02/2013
 layout: post
+title: "Xu\xE2n Reo B\xEAn G\xF4\u0301i \xC1nh Tr\u0103ng Th\u01A1m"
 ---
 
 **Xuân Reo Bên Gối Ánh Trăng Thơm**

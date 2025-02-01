@@ -1,9 +1,3 @@
----
-title: "Edwidge Danticat's "Breath, Eyes, Memory", An Exerpt"
-date: 09/12/2011
-categories: Poetry
-layout: post
----
 
 **Edwidge Danticat's "Breath, Eyes, Memory", An Exerpt**
 

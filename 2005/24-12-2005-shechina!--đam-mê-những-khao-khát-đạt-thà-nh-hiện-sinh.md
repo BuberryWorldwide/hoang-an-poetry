@@ -1,8 +1,10 @@
 ---
-title: "Shechina!.. : đam-Mê, Những Khao-Khát đạt-Thà nh Hiện-Sinh"
-date: 24/12/2005
+author: Unknown
 categories: Poetry
+date: 24/12/2005
 layout: post
+title: "Shechina!.. : \u0111am-M\xEA, Nh\u01B0\u0303ng Khao-Kha\u0301t \u0111a\u0323\
+  t-Tha\u0300 nh Hi\xEA\u0323n-Sinh"
 ---
 
 **Shechina!.. : đam-Mê, Những Khao-Khát đạt-Thà nh Hiện-Sinh**

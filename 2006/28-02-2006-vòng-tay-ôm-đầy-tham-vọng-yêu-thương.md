@@ -1,8 +1,10 @@
 ---
-title: "Vòng Tay Ôm đầy Tham-Vọng Yêu Thương"
-date: 28/02/2006
+author: Unknown
 categories: Poetry
+date: 28/02/2006
 layout: post
+title: "Vo\u0300ng Tay \xD4m \u0111\xE2\u0300y Tham-Vo\u0323ng Y\xEAu Th\u01B0\u01A1\
+  ng"
 ---
 
 **Vòng Tay Ôm đầy Tham-Vọng Yêu Thương**

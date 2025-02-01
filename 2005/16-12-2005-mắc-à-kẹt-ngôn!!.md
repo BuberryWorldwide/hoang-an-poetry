@@ -1,9 +1,3 @@
----
-title: "Mắc à Kẹt Ngôn..!!"
-date: 16/12/2005
-categories: Poetry
-layout: post
----
 
 **Mắc à Kẹt Ngôn..!!**
 

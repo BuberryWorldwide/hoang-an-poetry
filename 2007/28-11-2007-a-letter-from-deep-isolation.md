@@ -1,8 +1,9 @@
 ---
-title: "A Letter From Deep Isolation"
-date: 28/11/2007
+author: Unknown
 categories: Poetry
+date: 28/11/2007
 layout: post
+title: A Letter From Deep Isolation
 ---
 
 **A Letter From Deep Isolation**

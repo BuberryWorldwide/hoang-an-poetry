@@ -1,8 +1,10 @@
 ---
-title: "Người Hùng Áo Vải đất Lam-Sơn: Trận Chi-Lăng"
-date: 21/01/2013
+author: Unknown
 categories: Poetry
+date: 21/01/2013
 layout: post
+title: "Ng\u01B0\u01A1\u0300i Hu\u0300ng \xC1o Va\u0309i \u0111\xE2\u0301t Lam-S\u01A1\
+  n: Tr\xE2\u0323n Chi-L\u0103ng"
 ---
 
 **Người Hùng Áo Vải đất Lam-Sơn: Trận Chi-Lăng**

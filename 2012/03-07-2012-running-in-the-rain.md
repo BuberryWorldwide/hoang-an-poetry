@@ -1,8 +1,9 @@
 ---
-title: "Running In The Rain"
-date: 03/07/2012
+author: Unknown
 categories: Poetry
+date: 03/07/2012
 layout: post
+title: Running In The Rain
 ---
 
 **Running In The Rain**

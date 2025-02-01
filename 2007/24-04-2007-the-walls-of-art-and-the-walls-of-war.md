@@ -1,8 +1,9 @@
 ---
-title: "The Walls of Art and The Walls of War"
-date: 24/04/2007
+author: Unknown
 categories: Poetry
+date: 24/04/2007
 layout: post
+title: The Walls of Art and The Walls of War
 ---
 
 **The Walls of Art and The Walls of War**

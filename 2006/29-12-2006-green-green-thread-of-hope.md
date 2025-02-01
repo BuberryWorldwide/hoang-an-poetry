@@ -1,8 +1,9 @@
 ---
-title: "Green Green Thread of Hope"
-date: 29/12/2006
+author: Unknown
 categories: Poetry
+date: 29/12/2006
 layout: post
+title: Green Green Thread of Hope
 ---
 
 **Green Green Thread of Hope**

@@ -1,8 +1,9 @@
 ---
-title: "Temporary Santuary"
-date: 15/12/2006
+author: Unknown
 categories: Poetry
+date: 15/12/2006
 layout: post
+title: Temporary Santuary
 ---
 
 **Temporary Santuary**

@@ -1,8 +1,9 @@
 ---
-title: "Genesis, Genesis...Big Bang, Big Bang"
-date: 17/12/2012
+author: Unknown
 categories: Poetry
+date: 17/12/2012
 layout: post
+title: Genesis, Genesis...Big Bang, Big Bang
 ---
 
 **Genesis, Genesis...Big Bang, Big Bang**

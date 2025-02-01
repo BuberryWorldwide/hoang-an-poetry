@@ -1,8 +1,9 @@
 ---
-title: "Chỉ Cần Một Lý-Do"
-date: 30/11/2007
+author: Unknown
 categories: Poetry
+date: 30/11/2007
 layout: post
+title: "Chi\u0309 C\xE2\u0300n M\xF4\u0323t Ly\u0301-Do"
 ---
 
 **Chỉ Cần Một Lý-Do**

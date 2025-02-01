@@ -1,8 +1,9 @@
 ---
-title: "Influenza"
-date: 18/11/2007
+author: Unknown
 categories: Poetry
+date: 18/11/2007
 layout: post
+title: Influenza
 ---
 
 **Influenza**

@@ -1,8 +1,9 @@
 ---
-title: "Alluring Phantom"
-date: 17/11/2007
+author: Unknown
 categories: Poetry
+date: 17/11/2007
 layout: post
+title: Alluring Phantom
 ---
 
 **Alluring Phantom**

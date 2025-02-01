@@ -1,8 +1,9 @@
 ---
-title: "Sự Bùng Nổ Thiên-Tuyệt"
-date: 12/07/2012
+author: Unknown
 categories: Poetry
+date: 12/07/2012
 layout: post
+title: "S\u01B0\u0323 Bu\u0300ng N\xF4\u0309 Thi\xEAn-Tuy\xEA\u0323t"
 ---
 
 **Sự Bùng Nổ Thiên-Tuyệt**

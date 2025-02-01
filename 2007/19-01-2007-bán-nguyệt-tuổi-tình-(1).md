@@ -1,8 +1,9 @@
 ---
-title: "Bán-Nguyệt Tuổi Tình (1)"
-date: 19/01/2007
+author: Unknown
 categories: Poetry
+date: 19/01/2007
 layout: post
+title: "Ba\u0301n-Nguy\xEA\u0323t Tu\xF4\u0309i Ti\u0300nh (1)"
 ---
 
 **Bán-Nguyệt Tuổi Tình (1)**

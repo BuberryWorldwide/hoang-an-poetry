@@ -1,8 +1,10 @@
 ---
-title: "NGUYỄN THÁI HỌ và  VIỆT-NAM QUỐC-DÂN-đẢNG"
-date: 10/12/2012
+author: Unknown
 categories: Poetry
+date: 10/12/2012
 layout: post
+title: "NGUY\u1EC4N TH\xC1I HO\u0323 va\u0300  VI\u1EC6T-NAM QU\u1ED0C-D\xC2N-\u0111\
+  \u1EA2NG"
 ---
 
 **NGUYỄN THÁI HỌ và  VIỆT-NAM QUỐC-DÂN-đẢNG**

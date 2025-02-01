@@ -1,8 +1,9 @@
 ---
-title: "Trầm-Tích Tình Yêu"
-date: 26/11/2005
+author: Unknown
 categories: Poetry
+date: 26/11/2005
 layout: post
+title: "Tr\xE2\u0300m-Ti\u0301ch Ti\u0300nh Y\xEAu"
 ---
 
 **Trầm-Tích Tình Yêu**

@@ -1,8 +1,10 @@
 ---
-title: "Chút Hiền-Hòa Những Ngà y Cuối Năm"
-date: 27/12/2005
+author: Unknown
 categories: Poetry
+date: 27/12/2005
 layout: post
+title: "Chu\u0301t Hi\xEA\u0300n-Ho\u0300a Nh\u01B0\u0303ng Nga\u0300 y Cu\xF4\u0301\
+  i N\u0103m"
 ---
 
 **Chút Hiền-Hòa Những Ngà y Cuối Năm**

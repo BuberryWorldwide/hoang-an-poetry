@@ -1,8 +1,9 @@
 ---
-title: "Mùa Cầm Rúng-động"
-date: 04/05/2007
+author: Unknown
 categories: Poetry
+date: 04/05/2007
 layout: post
+title: "Mu\u0300a C\xE2\u0300m Ru\u0301ng-\u0111\xF4\u0323ng"
 ---
 
 **Mùa Cầm Rúng-động**

@@ -1,8 +1,9 @@
 ---
-title: "Mười ngón tay"
-date: 12/05/2012
+author: Unknown
 categories: Poetry
+date: 12/05/2012
 layout: post
+title: "M\u01B0\u01A1\u0300i ngo\u0301n tay"
 ---
 
 **Mười ngón tay**

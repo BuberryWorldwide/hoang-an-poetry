@@ -1,8 +1,10 @@
 ---
-title: "Người đà n-Bà  Và  Vấn-Nạn Nhân-Sinh"
-date: 09/03/2006
+author: Unknown
 categories: Poetry
+date: 09/03/2006
 layout: post
+title: "Ng\u01B0\u01A1\u0300i \u0111a\u0300 n-Ba\u0300  Va\u0300  V\xE2\u0301n-Na\u0323\
+  n Nh\xE2n-Sinh"
 ---
 
 **Người đà n-Bà  Và  Vấn-Nạn Nhân-Sinh**

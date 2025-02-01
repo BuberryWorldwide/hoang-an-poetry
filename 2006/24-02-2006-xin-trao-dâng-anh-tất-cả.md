@@ -1,8 +1,9 @@
 ---
-title: "Xin Trao Dâng Anh Tất-Cả"
-date: 24/02/2006
+author: Unknown
 categories: Poetry
+date: 24/02/2006
 layout: post
+title: "Xin Trao D\xE2ng Anh T\xE2\u0301t-Ca\u0309"
 ---
 
 **Xin Trao Dâng Anh Tất-Cả**

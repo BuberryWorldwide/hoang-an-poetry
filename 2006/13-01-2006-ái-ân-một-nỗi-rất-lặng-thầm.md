@@ -1,8 +1,10 @@
 ---
-title: "Ái-Ân Một Nỗi Rất Lặng-Thầm"
-date: 13/01/2006
+author: Unknown
 categories: Poetry
+date: 13/01/2006
 layout: post
+title: "\xC1i-\xC2n M\xF4\u0323t N\xF4\u0303i R\xE2\u0301t L\u0103\u0323ng-Th\xE2\u0300\
+  m"
 ---
 
 **Ái-Ân Một Nỗi Rất Lặng-Thầm**

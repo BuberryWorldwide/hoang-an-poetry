@@ -1,8 +1,10 @@
 ---
-title: "Tình Yêu Tội-Nghiệp Khiêm-Nhường"
-date: 24/11/2005
+author: Unknown
 categories: Poetry
+date: 24/11/2005
 layout: post
+title: "Ti\u0300nh Y\xEAu T\xF4\u0323i-Nghi\xEA\u0323p Khi\xEAm-Nh\u01B0\u01A1\u0300\
+  ng"
 ---
 
 **Tình Yêu Tội-Nghiệp Khiêm-Nhường**

@@ -1,8 +1,9 @@
 ---
-title: "Xin Trao Dâng Anh Tất Cả"
-date: 28/01/2013
+author: Unknown
 categories: Poetry
+date: 28/01/2013
 layout: post
+title: "Xin Trao D\xE2ng Anh T\xE2\u0301t Ca\u0309"
 ---
 
 **Xin Trao Dâng Anh Tất Cả**

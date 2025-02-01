@@ -1,8 +1,9 @@
 ---
-title: "Un-Self-Consciousness"
-date: 09/05/2012
+author: Unknown
 categories: Poetry
+date: 09/05/2012
 layout: post
+title: Un-Self-Consciousness
 ---
 
 **Un-Self-Consciousness**

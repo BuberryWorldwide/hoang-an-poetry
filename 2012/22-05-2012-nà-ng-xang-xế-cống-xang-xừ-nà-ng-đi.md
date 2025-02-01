@@ -1,8 +1,10 @@
 ---
-title: "Nà ng Xang Xế Cống Xang Xừ Nà ng đi"
-date: 22/05/2012
+author: Unknown
 categories: Poetry
+date: 22/05/2012
 layout: post
+title: "Na\u0300 ng Xang X\xEA\u0301 C\xF4\u0301ng Xang X\u01B0\u0300 Na\u0300 ng\
+  \ \u0111i"
 ---
 
 **Nà ng Xang Xế Cống Xang Xừ Nà ng đi**

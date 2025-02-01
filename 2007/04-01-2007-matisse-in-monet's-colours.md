@@ -1,8 +1,9 @@
 ---
-title: "Matisse In Monet's Colours"
-date: 04/01/2007
+author: Unknown
 categories: Poetry
+date: 04/01/2007
 layout: post
+title: Matisse In Monet's Colours
 ---
 
 **Matisse In Monet's Colours**

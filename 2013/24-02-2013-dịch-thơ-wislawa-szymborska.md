@@ -1,8 +1,9 @@
 ---
-title: "Dịch Thơ Wislawa Szymborska"
-date: 24/02/2013
+author: Unknown
 categories: Poetry
+date: 24/02/2013
 layout: post
+title: "Di\u0323ch Th\u01A1 Wislawa Szymborska"
 ---
 
 **Dịch Thơ Wislawa Szymborska**

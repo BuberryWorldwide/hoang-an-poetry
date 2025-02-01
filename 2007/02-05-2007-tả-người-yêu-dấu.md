@@ -1,8 +1,9 @@
 ---
-title: "Tả Người Yêu-Dấu"
-date: 02/05/2007
+author: Unknown
 categories: Poetry
+date: 02/05/2007
 layout: post
+title: "Ta\u0309 Ng\u01B0\u01A1\u0300i Y\xEAu-D\xE2\u0301u"
 ---
 
 **Tả Người Yêu-Dấu**

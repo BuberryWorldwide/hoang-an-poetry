@@ -1,8 +1,9 @@
 ---
-title: "Sinh-Nhật-Ca"
-date: 30/04/2007
+author: Unknown
 categories: Poetry
+date: 30/04/2007
 layout: post
+title: "Sinh-Nh\xE2\u0323t-Ca"
 ---
 
 **Sinh-Nhật-Ca**

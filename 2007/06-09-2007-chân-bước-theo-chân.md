@@ -1,8 +1,9 @@
 ---
-title: "Chân Bước Theo Chân"
-date: 06/09/2007
+author: Unknown
 categories: Poetry
+date: 06/09/2007
 layout: post
+title: "Ch\xE2n B\u01B0\u01A1\u0301c Theo Ch\xE2n"
 ---
 
 **Chân Bước Theo Chân**

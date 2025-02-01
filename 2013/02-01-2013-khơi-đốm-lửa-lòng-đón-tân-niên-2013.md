@@ -1,8 +1,10 @@
 ---
-title: "Khơi đốm Lửa Lòng đón Tân-Niên 2013"
-date: 02/01/2013
+author: Unknown
 categories: Poetry
+date: 02/01/2013
 layout: post
+title: "Kh\u01A1i \u0111\xF4\u0301m L\u01B0\u0309a Lo\u0300ng \u0111o\u0301n T\xE2\
+  n-Ni\xEAn 2013"
 ---
 
 **Khơi đốm Lửa Lòng đón Tân-Niên 2013**

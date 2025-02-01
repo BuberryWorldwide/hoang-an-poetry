@@ -1,8 +1,9 @@
 ---
-title: "Một Ngà y Trong Vòng Tay Thơm"
-date: 20/05/2012
+author: Unknown
 categories: Poetry
+date: 20/05/2012
 layout: post
+title: "M\xF4\u0323t Nga\u0300 y Trong Vo\u0300ng Tay Th\u01A1m"
 ---
 
 **Một Ngà y Trong Vòng Tay Thơm**

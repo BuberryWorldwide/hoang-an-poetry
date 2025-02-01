@@ -1,8 +1,9 @@
 ---
-title: "NGÂM MỘT CUNG: NHÀN"
-date: 07/01/2012
+author: Unknown
 categories: Poetry
+date: 07/01/2012
 layout: post
+title: "NG\xC2M M\xD4\u0323T CUNG: NH\xC0N"
 ---
 
 **NGÂM MỘT CUNG: NHÀN**

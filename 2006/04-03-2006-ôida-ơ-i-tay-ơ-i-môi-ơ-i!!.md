@@ -1,8 +1,9 @@
 ---
-title: "Ôi..Da Ơ i, Tay Ơ i, Môi Ơ i..!!"
-date: 04/03/2006
+author: Unknown
 categories: Poetry
+date: 04/03/2006
 layout: post
+title: "\xD4i..Da \u01A0 i, Tay \u01A0 i, M\xF4i \u01A0 i..!!"
 ---
 
 **Ôi..Da Ơ i, Tay Ơ i, Môi Ơ i..!!**

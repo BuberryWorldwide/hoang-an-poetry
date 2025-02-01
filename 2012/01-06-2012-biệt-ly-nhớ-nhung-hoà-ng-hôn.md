@@ -1,8 +1,9 @@
 ---
-title: "Biệt-Ly Nhớ-Nhung Hoà ng-Hôn"
-date: 01/06/2012
+author: Unknown
 categories: Poetry
+date: 01/06/2012
 layout: post
+title: "Bi\xEA\u0323t-Ly Nh\u01A1\u0301-Nhung Hoa\u0300 ng-H\xF4n"
 ---
 
 **Biệt-Ly Nhớ-Nhung Hoà ng-Hôn**

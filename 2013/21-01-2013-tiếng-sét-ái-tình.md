@@ -1,8 +1,9 @@
 ---
-title: "TIẾNG SÉT ÁI-TÌNH"
-date: 21/01/2013
+author: Unknown
 categories: Poetry
+date: 21/01/2013
 layout: post
+title: "TI\xCA\u0301NG S\xC9T \xC1I-T\xCCNH"
 ---
 
 **TIẾNG SÉT ÁI-TÌNH**

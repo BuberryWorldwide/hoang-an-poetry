@@ -1,8 +1,9 @@
 ---
-title: "Non-Causal Feud"
-date: 17/11/2007
+author: Unknown
 categories: Poetry
+date: 17/11/2007
 layout: post
+title: Non-Causal Feud
 ---
 
 **Non-Causal Feud**

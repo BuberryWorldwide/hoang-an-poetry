@@ -1,8 +1,9 @@
 ---
-title: "Bà i Ca Dương-Liễu"
-date: 19/11/2005
+author: Unknown
 categories: Poetry
+date: 19/11/2005
 layout: post
+title: "Ba\u0300 i Ca D\u01B0\u01A1ng-Li\xEA\u0303u"
 ---
 
 **Bà i Ca Dương-Liễu**

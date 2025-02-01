@@ -1,8 +1,10 @@
 ---
-title: "Thực-Tại Trên Từng Bước Của Gót Chân"
-date: 10/09/2007
+author: Unknown
 categories: Poetry
+date: 10/09/2007
 layout: post
+title: "Th\u01B0\u0323c-Ta\u0323i Tr\xEAn T\u01B0\u0300ng B\u01B0\u01A1\u0301c Cu\u0309\
+  a Go\u0301t Ch\xE2n"
 ---
 
 **Thực-Tại Trên Từng Bước Của Gót Chân**

@@ -1,8 +1,9 @@
 ---
-title: "Mùa Cầm Nguyệt Biếc Xanh Lơ"
-date: 24/12/2005
+author: Unknown
 categories: Poetry
+date: 24/12/2005
 layout: post
+title: "Mu\u0300a C\xE2\u0300m Nguy\xEA\u0323t Bi\xEA\u0301c Xanh L\u01A1"
 ---
 
 **Mùa Cầm Nguyệt Biếc Xanh Lơ**

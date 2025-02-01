@@ -1,8 +1,9 @@
 ---
-title: "Tình Yêu Lộng-Lẩy Chân-Dung"
-date: 01/05/2012
+author: Unknown
 categories: Poetry
+date: 01/05/2012
 layout: post
+title: "Ti\u0300nh Y\xEAu L\xF4\u0323ng-L\xE2\u0309y Ch\xE2n-Dung"
 ---
 
 **Tình Yêu Lộng-Lẩy Chân-Dung**

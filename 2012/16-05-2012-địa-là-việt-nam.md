@@ -1,9 +1,3 @@
----
-title: "đỊA-Là VIỆT-NAM"
-date: 16/05/2012
-categories: Poetry
-layout: post
----
 
 **đỊA-Là VIỆT-NAM**
 

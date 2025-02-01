@@ -1,8 +1,10 @@
 ---
-title: "Về Bạn Nơi Thà nh-Phố Không Bao Giờ Có Mùa đông"
-date: 16/12/2005
+author: Unknown
 categories: Poetry
+date: 16/12/2005
 layout: post
+title: "V\xEA\u0300 Ba\u0323n N\u01A1i Tha\u0300 nh-Ph\xF4\u0301 Kh\xF4ng Bao Gi\u01A1\
+  \u0300 Co\u0301 Mu\u0300a \u0111\xF4ng"
 ---
 
 **Về Bạn Nơi Thà nh-Phố Không Bao Giờ Có Mùa đông**

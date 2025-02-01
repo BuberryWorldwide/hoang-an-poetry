@@ -1,8 +1,9 @@
 ---
-title: "Literary Beings"
-date: 22/01/2013
+author: Unknown
 categories: Poetry
+date: 22/01/2013
 layout: post
+title: Literary Beings
 ---
 
 **Literary Beings**

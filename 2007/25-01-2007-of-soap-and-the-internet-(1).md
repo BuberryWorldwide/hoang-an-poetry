@@ -1,8 +1,9 @@
 ---
-title: "Of Soap and The Internet (1)"
-date: 25/01/2007
+author: Unknown
 categories: Poetry
+date: 25/01/2007
 layout: post
+title: Of Soap and The Internet (1)
 ---
 
 **Of Soap and The Internet (1)**

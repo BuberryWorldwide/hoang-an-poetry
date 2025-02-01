@@ -1,8 +1,9 @@
 ---
-title: "Go From My Window"
-date: 09/12/2011
+author: Unknown
 categories: Poetry
+date: 09/12/2011
 layout: post
+title: Go From My Window
 ---
 
 **Go From My Window**

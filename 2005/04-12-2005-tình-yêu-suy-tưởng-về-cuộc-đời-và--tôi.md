@@ -1,8 +1,10 @@
 ---
-title: "Tình Yêu, Suy-Tưởng Về Cuộc đời Và  Tôi"
-date: 04/12/2005
+author: Unknown
 categories: Poetry
+date: 04/12/2005
 layout: post
+title: "Ti\u0300nh Y\xEAu, Suy-T\u01B0\u01A1\u0309ng V\xEA\u0300 Cu\xF4\u0323c \u0111\
+  \u01A1\u0300i Va\u0300  T\xF4i"
 ---
 
 **Tình Yêu, Suy-Tưởng Về Cuộc đời Và  Tôi**

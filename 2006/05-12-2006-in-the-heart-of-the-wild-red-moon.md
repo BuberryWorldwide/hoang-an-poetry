@@ -1,8 +1,9 @@
 ---
-title: "In The Heart Of The Wild Red Moon"
-date: 05/12/2006
+author: Unknown
 categories: Poetry
+date: 05/12/2006
 layout: post
+title: In The Heart Of The Wild Red Moon
 ---
 
 **In The Heart Of The Wild Red Moon**

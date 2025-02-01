@@ -1,8 +1,9 @@
 ---
-title: "Neoclassicism and Romanticism"
-date: 22/07/2007
+author: Unknown
 categories: Poetry
+date: 22/07/2007
 layout: post
+title: Neoclassicism and Romanticism
 ---
 
 **Neoclassicism and Romanticism**

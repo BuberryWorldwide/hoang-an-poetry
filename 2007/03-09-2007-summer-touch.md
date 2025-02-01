@@ -1,8 +1,9 @@
 ---
-title: "Summer Touch"
-date: 03/09/2007
+author: Unknown
 categories: Poetry
+date: 03/09/2007
 layout: post
+title: Summer Touch
 ---
 
 **Summer Touch**

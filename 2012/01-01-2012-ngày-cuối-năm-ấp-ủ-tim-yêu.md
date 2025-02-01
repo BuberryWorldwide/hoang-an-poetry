@@ -1,8 +1,9 @@
 ---
-title: "NGÀY CUỐI NĂM ẤP-Ủ TIM YÊU"
-date: 01/01/2012
+author: Unknown
 categories: Poetry
+date: 01/01/2012
 layout: post
+title: "NG\xC0Y CU\u1ED0I N\u0102M \xC2\u0301P-U\u0309 TIM Y\xCAU"
 ---
 
 **NGÀY CUỐI NĂM ẤP-Ủ TIM YÊU**

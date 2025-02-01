@@ -1,8 +1,9 @@
 ---
-title: "Không-Gian Buộc Bởi Thời-Gian"
-date: 03/01/2013
+author: Unknown
 categories: Poetry
+date: 03/01/2013
 layout: post
+title: "Kh\xF4ng-Gian Bu\xF4\u0323c B\u01A1\u0309i Th\u01A1\u0300i-Gian"
 ---
 
 **Không-Gian Buộc Bởi Thời-Gian**

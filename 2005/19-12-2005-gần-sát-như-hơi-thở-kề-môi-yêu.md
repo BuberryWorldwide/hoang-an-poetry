@@ -1,8 +1,10 @@
 ---
-title: "Gần Sát Như Hơi Thở Kề Môi Yêu"
-date: 19/12/2005
+author: Unknown
 categories: Poetry
+date: 19/12/2005
 layout: post
+title: "G\xE2\u0300n Sa\u0301t Nh\u01B0 H\u01A1i Th\u01A1\u0309 K\xEA\u0300 M\xF4\
+  i Y\xEAu"
 ---
 
 **Gần Sát Như Hơi Thở Kề Môi Yêu**

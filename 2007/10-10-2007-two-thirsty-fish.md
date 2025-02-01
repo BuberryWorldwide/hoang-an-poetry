@@ -1,8 +1,9 @@
 ---
-title: "Two Thirsty Fish"
-date: 10/10/2007
+author: Unknown
 categories: Poetry
+date: 10/10/2007
 layout: post
+title: Two Thirsty Fish
 ---
 
 **Two Thirsty Fish**

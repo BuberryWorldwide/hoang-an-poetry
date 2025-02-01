@@ -1,8 +1,9 @@
 ---
-title: "Trên Từng Gót đến"
-date: 15/11/2007
+author: Unknown
 categories: Poetry
+date: 15/11/2007
 layout: post
+title: "Tr\xEAn T\u01B0\u0300ng Go\u0301t \u0111\xEA\u0301n"
 ---
 
 **Trên Từng Gót đến**

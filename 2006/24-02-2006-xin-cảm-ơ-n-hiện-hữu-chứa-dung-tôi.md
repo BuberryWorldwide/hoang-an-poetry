@@ -1,8 +1,10 @@
 ---
-title: "Xin Cảm Ơ n Hiện-Hữu Chứa-Dung Tôi"
-date: 24/02/2006
+author: Unknown
 categories: Poetry
+date: 24/02/2006
 layout: post
+title: "Xin Ca\u0309m \u01A0 n Hi\xEA\u0323n-H\u01B0\u0303u Ch\u01B0\u0301a-Dung T\xF4\
+  i"
 ---
 
 **Xin Cảm Ơ n Hiện-Hữu Chứa-Dung Tôi**

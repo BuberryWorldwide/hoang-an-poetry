@@ -1,8 +1,9 @@
 ---
-title: "How Gentle Can Revolution Be?"
-date: 14/05/2007
+author: Unknown
 categories: Poetry
+date: 14/05/2007
 layout: post
+title: How Gentle Can Revolution Be?
 ---
 
 **How Gentle Can Revolution Be?**

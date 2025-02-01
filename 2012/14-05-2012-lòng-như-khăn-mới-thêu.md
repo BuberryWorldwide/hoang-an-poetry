@@ -1,8 +1,9 @@
 ---
-title: "lòng như khăn mới thêu"
-date: 14/05/2012
+author: Unknown
 categories: Poetry
+date: 14/05/2012
 layout: post
+title: "lo\u0300ng nh\u01B0 kh\u0103n m\u01A1\u0301i th\xEAu"
 ---
 
 **lòng như khăn mới thêu**

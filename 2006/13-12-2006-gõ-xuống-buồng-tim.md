@@ -1,8 +1,9 @@
 ---
-title: "Gõ Xuống Buồng Tim"
-date: 13/12/2006
+author: Unknown
 categories: Poetry
+date: 13/12/2006
 layout: post
+title: "Go\u0303 Xu\xF4\u0301ng Bu\xF4\u0300ng Tim"
 ---
 
 **Gõ Xuống Buồng Tim**

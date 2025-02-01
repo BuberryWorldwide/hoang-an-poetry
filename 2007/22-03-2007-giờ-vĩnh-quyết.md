@@ -1,8 +1,9 @@
 ---
-title: "Giờ Vĩnh-Quyết"
-date: 22/03/2007
+author: Unknown
 categories: Poetry
+date: 22/03/2007
 layout: post
+title: "Gi\u01A1\u0300 Vi\u0303nh-Quy\xEA\u0301t"
 ---
 
 **Giờ Vĩnh-Quyết**

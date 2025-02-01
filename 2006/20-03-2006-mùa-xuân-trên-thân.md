@@ -1,8 +1,9 @@
 ---
-title: "Mùa Xuân Trên Thân"
-date: 20/03/2006
+author: Unknown
 categories: Poetry
+date: 20/03/2006
 layout: post
+title: "Mu\u0300a Xu\xE2n Tr\xEAn Th\xE2n"
 ---
 
 **Mùa Xuân Trên Thân**

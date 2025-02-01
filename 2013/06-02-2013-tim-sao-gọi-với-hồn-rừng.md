@@ -1,8 +1,9 @@
 ---
-title: "Tim Sao Gọi Với Hồn Rừng"
-date: 06/02/2013
+author: Unknown
 categories: Poetry
+date: 06/02/2013
 layout: post
+title: "Tim Sao Go\u0323i V\u01A1\u0301i H\xF4\u0300n R\u01B0\u0300ng"
 ---
 
 **Tim Sao Gọi Với Hồn Rừng**

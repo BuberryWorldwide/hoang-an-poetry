@@ -1,8 +1,9 @@
 ---
-title: "Niềm Tin Mặt Trời"
-date: 21/04/2007
+author: Unknown
 categories: Poetry
+date: 21/04/2007
 layout: post
+title: "Ni\xEA\u0300m Tin M\u0103\u0323t Tr\u01A1\u0300i"
 ---
 
 **Niềm Tin Mặt Trời**

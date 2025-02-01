@@ -1,8 +1,9 @@
 ---
-title: "Love Is Closer Than A Thought"
-date: 15/12/2006
+author: Unknown
 categories: Poetry
+date: 15/12/2006
 layout: post
+title: Love Is Closer Than A Thought
 ---
 
 **Love Is Closer Than A Thought**

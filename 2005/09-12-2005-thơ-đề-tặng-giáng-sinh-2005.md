@@ -1,8 +1,9 @@
 ---
-title: "Thơ đề Tặng Giáng-Sinh, 2005"
-date: 09/12/2005
+author: Unknown
 categories: Poetry
+date: 09/12/2005
 layout: post
+title: "Th\u01A1 \u0111\xEA\u0300 T\u0103\u0323ng Gia\u0301ng-Sinh, 2005"
 ---
 
 **Thơ đề Tặng Giáng-Sinh, 2005**

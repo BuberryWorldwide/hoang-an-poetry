@@ -1,8 +1,9 @@
 ---
-title: "Những Ngà y Của Gió (2)"
-date: 08/04/2007
+author: Unknown
 categories: Poetry
+date: 08/04/2007
 layout: post
+title: "Nh\u01B0\u0303ng Nga\u0300 y Cu\u0309a Gio\u0301 (2)"
 ---
 
 **Những Ngà y Của Gió (2)**

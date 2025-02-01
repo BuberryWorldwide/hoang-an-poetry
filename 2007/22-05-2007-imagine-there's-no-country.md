@@ -1,8 +1,9 @@
 ---
-title: "Imagine There's No Country"
-date: 22/05/2007
+author: Unknown
 categories: Poetry
+date: 22/05/2007
 layout: post
+title: Imagine There's No Country
 ---
 
 **Imagine There's No Country**

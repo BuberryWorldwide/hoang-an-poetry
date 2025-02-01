@@ -1,8 +1,9 @@
 ---
-title: "Chầm-Chậm Chân Ngà y"
-date: 22/07/2007
+author: Unknown
 categories: Poetry
+date: 22/07/2007
 layout: post
+title: "Ch\xE2\u0300m-Ch\xE2\u0323m Ch\xE2n Nga\u0300 y"
 ---
 
 **Chầm-Chậm Chân Ngà y**

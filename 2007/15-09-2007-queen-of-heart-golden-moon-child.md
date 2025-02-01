@@ -1,8 +1,9 @@
 ---
-title: "Queen Of Heart, Golden Moon Child"
-date: 15/09/2007
+author: Unknown
 categories: Poetry
+date: 15/09/2007
 layout: post
+title: Queen Of Heart, Golden Moon Child
 ---
 
 **Queen Of Heart, Golden Moon Child**

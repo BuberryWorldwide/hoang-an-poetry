@@ -1,8 +1,9 @@
 ---
-title: "WINTER PREPARATION"
-date: 12/12/2012
+author: Unknown
 categories: Poetry
+date: 12/12/2012
 layout: post
+title: WINTER PREPARATION
 ---
 
 **WINTER PREPARATION**

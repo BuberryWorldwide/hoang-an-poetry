@@ -1,8 +1,9 @@
 ---
-title: "Sáng Thất-Tình"
-date: 09/02/2007
+author: Unknown
 categories: Poetry
+date: 09/02/2007
 layout: post
+title: "Sa\u0301ng Th\xE2\u0301t-Ti\u0300nh"
 ---
 
 **Sáng Thất-Tình**

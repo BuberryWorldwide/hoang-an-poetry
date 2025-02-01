@@ -1,8 +1,9 @@
 ---
-title: "Immortality and Life and Non-Life"
-date: 12/10/2007
+author: Unknown
 categories: Poetry
+date: 12/10/2007
 layout: post
+title: Immortality and Life and Non-Life
 ---
 
 **Immortality and Life and Non-Life**

@@ -1,8 +1,9 @@
 ---
-title: "The Short Sauntering"
-date: 26/09/2007
+author: Unknown
 categories: Poetry
+date: 26/09/2007
 layout: post
+title: The Short Sauntering
 ---
 
 **The Short Sauntering**

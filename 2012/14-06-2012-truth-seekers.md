@@ -1,8 +1,9 @@
 ---
-title: "TRUTH SEEKERS"
-date: 14/06/2012
+author: Unknown
 categories: Poetry
+date: 14/06/2012
 layout: post
+title: TRUTH SEEKERS
 ---
 
 **TRUTH SEEKERS**

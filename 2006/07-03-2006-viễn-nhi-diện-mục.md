@@ -1,8 +1,9 @@
 ---
-title: "Viễn-Nhi Diện-Mục"
-date: 07/03/2006
+author: Unknown
 categories: Poetry
+date: 07/03/2006
 layout: post
+title: "Vi\xEA\u0303n-Nhi Di\xEA\u0323n-Mu\u0323c"
 ---
 
 **Viễn-Nhi Diện-Mục**

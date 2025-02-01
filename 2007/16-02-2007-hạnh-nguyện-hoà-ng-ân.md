@@ -1,8 +1,9 @@
 ---
-title: "Hạnh-Nguyện Hoà ng-Ân"
-date: 16/02/2007
+author: Unknown
 categories: Poetry
+date: 16/02/2007
 layout: post
+title: "Ha\u0323nh-Nguy\xEA\u0323n Hoa\u0300 ng-\xC2n"
 ---
 
 **Hạnh-Nguyện Hoà ng-Ân**

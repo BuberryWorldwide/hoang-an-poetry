@@ -1,8 +1,9 @@
 ---
-title: "Bời đất Nhân-Sinh"
-date: 15/12/2007
+author: Unknown
 categories: Poetry
+date: 15/12/2007
 layout: post
+title: "B\u01A1\u0300i \u0111\xE2\u0301t Nh\xE2n-Sinh"
 ---
 
 **Bời đất Nhân-Sinh**

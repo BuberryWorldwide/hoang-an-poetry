@@ -1,8 +1,9 @@
 ---
-title: "Là n Gió Thở Hơi Tự-Do"
-date: 13/01/2013
+author: Unknown
 categories: Poetry
+date: 13/01/2013
 layout: post
+title: "La\u0300 n Gio\u0301 Th\u01A1\u0309 H\u01A1i T\u01B0\u0323-Do"
 ---
 
 **Là n Gió Thở Hơi Tự-Do**

@@ -1,8 +1,9 @@
 ---
-title: "đâu Là  Thật, Giả"
-date: 20/08/2007
+author: Unknown
 categories: Poetry
+date: 20/08/2007
 layout: post
+title: "\u0111\xE2u La\u0300  Th\xE2\u0323t, Gia\u0309"
 ---
 
 **đâu Là  Thật, Giả**

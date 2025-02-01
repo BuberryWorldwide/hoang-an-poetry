@@ -1,8 +1,10 @@
 ---
-title: "Con Cá Khát Nước Giữa đại-Dương"
-date: 21/09/2007
+author: Unknown
 categories: Poetry
+date: 21/09/2007
 layout: post
+title: "Con Ca\u0301 Kha\u0301t N\u01B0\u01A1\u0301c Gi\u01B0\u0303a \u0111a\u0323\
+  i-D\u01B0\u01A1ng"
 ---
 
 **Con Cá Khát Nước Giữa đại-Dương**

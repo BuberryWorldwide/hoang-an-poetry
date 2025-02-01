@@ -1,8 +1,9 @@
 ---
-title: "Waiting To Be Awakened"
-date: 29/12/2011
+author: Unknown
 categories: Poetry
+date: 29/12/2011
 layout: post
+title: Waiting To Be Awakened
 ---
 
 **Waiting To Be Awakened**

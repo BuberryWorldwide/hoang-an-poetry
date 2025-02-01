@@ -1,8 +1,10 @@
 ---
-title: "đọc Quyển KINH THI VIỆT-NAM của TRƯƠ NG TỬU"
-date: 11/12/2012
+author: Unknown
 categories: Poetry
+date: 11/12/2012
 layout: post
+title: "\u0111o\u0323c Quy\xEA\u0309n KINH THI VI\u1EC6T-NAM cu\u0309a TR\u01AF\u01A0\
+  \ NG T\u1EECU"
 ---
 
 **đọc Quyển KINH THI VIỆT-NAM của TRƯƠ NG TỬU**

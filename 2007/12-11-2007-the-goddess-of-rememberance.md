@@ -1,8 +1,9 @@
 ---
-title: "The Goddess of Rememberance"
-date: 12/11/2007
+author: Unknown
 categories: Poetry
+date: 12/11/2007
 layout: post
+title: The Goddess of Rememberance
 ---
 
 **The Goddess of Rememberance**

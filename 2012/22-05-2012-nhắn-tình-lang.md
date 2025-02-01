@@ -1,8 +1,9 @@
 ---
-title: "NHẮN TÌNH-LANG"
-date: 22/05/2012
+author: Unknown
 categories: Poetry
+date: 22/05/2012
 layout: post
+title: "NH\u0102\u0301N T\xCCNH-LANG"
 ---
 
 **NHẮN TÌNH-LANG**

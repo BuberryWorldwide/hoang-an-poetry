@@ -1,8 +1,9 @@
 ---
-title: "Hoà ng-Ân: A Self-Portrait"
-date: 29/12/2006
+author: Unknown
 categories: Poetry
+date: 29/12/2006
 layout: post
+title: "Hoa\u0300 ng-\xC2n: A Self-Portrait"
 ---
 
 **Hoà ng-Ân: A Self-Portrait**

@@ -1,8 +1,9 @@
 ---
-title: "A Day To Do The Laundry Of My Brain"
-date: 12/12/2007
+author: Unknown
 categories: Poetry
+date: 12/12/2007
 layout: post
+title: A Day To Do The Laundry Of My Brain
 ---
 
 **A Day To Do The Laundry Of My Brain**

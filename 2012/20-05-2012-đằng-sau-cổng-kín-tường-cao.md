@@ -1,8 +1,9 @@
 ---
-title: "đằng Sau Cổng Kín Tường Cao"
-date: 20/05/2012
+author: Unknown
 categories: Poetry
+date: 20/05/2012
 layout: post
+title: "\u0111\u0103\u0300ng Sau C\xF4\u0309ng Ki\u0301n T\u01B0\u01A1\u0300ng Cao"
 ---
 
 **đằng Sau Cổng Kín Tường Cao**

@@ -1,9 +1,3 @@
----
-title: "Dịch thơ của Thi-Sĩ Thanh Trắc Nguyễn Văn: "đá và  Trái Tim""
-date: 06/07/2012
-categories: Poetry
-layout: post
----
 
 **Dịch thơ của Thi-Sĩ Thanh Trắc Nguyễn Văn: "đá và  Trái Tim"**
 

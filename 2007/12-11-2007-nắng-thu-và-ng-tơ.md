@@ -1,8 +1,9 @@
 ---
-title: "Nắng Thu Và ng Tơ"
-date: 12/11/2007
+author: Unknown
 categories: Poetry
+date: 12/11/2007
 layout: post
+title: "N\u0103\u0301ng Thu Va\u0300 ng T\u01A1"
 ---
 
 **Nắng Thu Và ng Tơ**

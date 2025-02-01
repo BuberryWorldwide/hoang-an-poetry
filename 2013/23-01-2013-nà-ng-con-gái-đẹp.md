@@ -1,8 +1,9 @@
 ---
-title: "Nà ng Con Gái đẹp"
-date: 23/01/2013
+author: Unknown
 categories: Poetry
+date: 23/01/2013
 layout: post
+title: "Na\u0300 ng Con Ga\u0301i \u0111e\u0323p"
 ---
 
 **Nà ng Con Gái đẹp**

@@ -1,8 +1,9 @@
 ---
-title: "The Dawn Of Self-Awareness After The Deep Night Wrestling With My Spirit"
-date: 25/01/2012
+author: Unknown
 categories: Poetry
+date: 25/01/2012
 layout: post
+title: The Dawn Of Self-Awareness After The Deep Night Wrestling With My Spirit
 ---
 
 **The Dawn Of Self-Awareness After The Deep Night Wrestling With My Spirit**

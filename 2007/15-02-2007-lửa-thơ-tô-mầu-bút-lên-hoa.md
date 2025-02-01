@@ -1,8 +1,9 @@
 ---
-title: "Lửa Thơ Tô Mầu Bút Lên Hoa"
-date: 15/02/2007
+author: Unknown
 categories: Poetry
+date: 15/02/2007
 layout: post
+title: "L\u01B0\u0309a Th\u01A1 T\xF4 M\xE2\u0300u Bu\u0301t L\xEAn Hoa"
 ---
 
 **Lửa Thơ Tô Mầu Bút Lên Hoa**

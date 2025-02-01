@@ -1,8 +1,9 @@
 ---
-title: "Vẫn Xin Tạ Ơ n đời"
-date: 27/11/2007
+author: Unknown
 categories: Poetry
+date: 27/11/2007
 layout: post
+title: "V\xE2\u0303n Xin Ta\u0323 \u01A0 n \u0111\u01A1\u0300i"
 ---
 
 **Vẫn Xin Tạ Ơ n đời**

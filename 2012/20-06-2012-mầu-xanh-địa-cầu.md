@@ -1,8 +1,9 @@
 ---
-title: "Mầu Xanh địa-Cầu"
-date: 20/06/2012
+author: Unknown
 categories: Poetry
+date: 20/06/2012
 layout: post
+title: "M\xE2\u0300u Xanh \u0111i\u0323a-C\xE2\u0300u"
 ---
 
 **Mầu Xanh địa-Cầu**

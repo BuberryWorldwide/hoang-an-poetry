@@ -1,8 +1,9 @@
 ---
-title: "Personality Psychology (1)"
-date: 18/06/2012
+author: Unknown
 categories: Poetry
+date: 18/06/2012
 layout: post
+title: Personality Psychology (1)
 ---
 
 **Personality Psychology (1)**

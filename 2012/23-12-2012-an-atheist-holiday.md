@@ -1,8 +1,9 @@
 ---
-title: "An Atheist Holiday"
-date: 23/12/2012
+author: Unknown
 categories: Poetry
+date: 23/12/2012
 layout: post
+title: An Atheist Holiday
 ---
 
 **An Atheist Holiday**

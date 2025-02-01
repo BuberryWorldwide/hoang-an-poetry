@@ -1,8 +1,9 @@
 ---
-title: "TRỜI MÂY VÀ SÓNG VÀ CÁT"
-date: 03/01/2013
+author: Unknown
 categories: Poetry
+date: 03/01/2013
 layout: post
+title: "TR\u01A0\u0300I M\xC2Y V\xC0 S\xD3NG V\xC0 C\xC1T"
 ---
 
 **TRỜI MÂY VÀ SÓNG VÀ CÁT**

@@ -1,8 +1,9 @@
 ---
-title: "THE THING TO DO IS ACT IT"
-date: 29/06/2012
+author: Unknown
 categories: Poetry
+date: 29/06/2012
 layout: post
+title: THE THING TO DO IS ACT IT
 ---
 
 **THE THING TO DO IS ACT IT**

@@ -1,8 +1,9 @@
 ---
-title: "GIA-TÀI CỦA MẸ"
-date: 13/05/2012
+author: Unknown
 categories: Poetry
+date: 13/05/2012
 layout: post
+title: "GIA-T\xC0I CU\u0309A M\u1EB8"
 ---
 
 **GIA-TÀI CỦA MẸ**

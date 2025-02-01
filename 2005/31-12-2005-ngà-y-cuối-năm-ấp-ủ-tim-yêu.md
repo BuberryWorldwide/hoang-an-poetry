@@ -1,8 +1,9 @@
 ---
-title: "Ngà y Cuối Năm Ấp-Ủ Tim Yêu"
-date: 31/12/2005
+author: Unknown
 categories: Poetry
+date: 31/12/2005
 layout: post
+title: "Nga\u0300 y Cu\xF4\u0301i N\u0103m \xC2\u0301p-U\u0309 Tim Y\xEAu"
 ---
 
 **Ngà y Cuối Năm Ấp-Ủ Tim Yêu**

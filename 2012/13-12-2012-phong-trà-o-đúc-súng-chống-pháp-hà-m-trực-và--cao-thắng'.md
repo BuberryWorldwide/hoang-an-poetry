@@ -1,8 +1,10 @@
 ---
-title: "Phong-Trà o đúc Súng Chống Pháp: Hà m Trực và  Cao Thắng'"
-date: 13/12/2012
+author: Unknown
 categories: Poetry
+date: 13/12/2012
 layout: post
+title: "Phong-Tra\u0300 o \u0111u\u0301c Su\u0301ng Ch\xF4\u0301ng Pha\u0301p: Ha\u0300\
+  \ m Tr\u01B0\u0323c va\u0300  Cao Th\u0103\u0301ng'"
 ---
 
 **Phong-Trà o đúc Súng Chống Pháp: Hà m Trực và  Cao Thắng'**

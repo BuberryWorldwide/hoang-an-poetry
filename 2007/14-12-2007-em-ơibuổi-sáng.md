@@ -1,8 +1,9 @@
 ---
-title: "Em ơi...Buổi Sáng..."
-date: 14/12/2007
+author: Unknown
 categories: Poetry
+date: 14/12/2007
 layout: post
+title: "Em \u01A1i...Bu\xF4\u0309i Sa\u0301ng..."
 ---
 
 **Em ơi...Buổi Sáng...**

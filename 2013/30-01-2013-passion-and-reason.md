@@ -1,8 +1,9 @@
 ---
-title: "Passion and Reason"
-date: 30/01/2013
+author: Unknown
 categories: Poetry
+date: 30/01/2013
 layout: post
+title: Passion and Reason
 ---
 
 **Passion and Reason**

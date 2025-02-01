@@ -1,8 +1,10 @@
 ---
-title: "đỊA-THẾ BA MIỀN VIỆT-NAM: SÔNG NGÒI: TRUNG-VIỆT"
-date: 20/05/2012
+author: Unknown
 categories: Poetry
+date: 20/05/2012
 layout: post
+title: "\u0111I\u0323A-TH\xCA\u0301 BA MI\xCA\u0300N VI\u1EC6T-NAM: S\xD4NG NG\xD2\
+  I: TRUNG-VI\u1EC6T"
 ---
 
 **đỊA-THẾ BA MIỀN VIỆT-NAM: SÔNG NGÒI: TRUNG-VIỆT**

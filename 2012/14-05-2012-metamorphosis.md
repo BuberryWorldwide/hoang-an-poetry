@@ -1,8 +1,9 @@
 ---
-title: "METAMORPHOSIS"
-date: 14/05/2012
+author: Unknown
 categories: Poetry
+date: 14/05/2012
 layout: post
+title: METAMORPHOSIS
 ---
 
 **METAMORPHOSIS**

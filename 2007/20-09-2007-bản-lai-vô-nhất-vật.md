@@ -1,8 +1,9 @@
 ---
-title: "Bản-Lai Vô Nhất Vật"
-date: 20/09/2007
+author: Unknown
 categories: Poetry
+date: 20/09/2007
 layout: post
+title: "Ba\u0309n-Lai V\xF4 Nh\xE2\u0301t V\xE2\u0323t"
 ---
 
 **Bản-Lai Vô Nhất Vật**

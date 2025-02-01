@@ -1,8 +1,9 @@
 ---
-title: "Hãy đi Là m Mới đời Nhau"
-date: 04/01/2013
+author: Unknown
 categories: Poetry
+date: 04/01/2013
 layout: post
+title: "Ha\u0303y \u0111i La\u0300 m M\u01A1\u0301i \u0111\u01A1\u0300i Nhau"
 ---
 
 **Hãy đi Là m Mới đời Nhau**

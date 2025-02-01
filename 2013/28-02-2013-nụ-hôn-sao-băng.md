@@ -1,8 +1,9 @@
 ---
-title: "Nụ Hôn Sao Băng"
-date: 28/02/2013
+author: Unknown
 categories: Poetry
+date: 28/02/2013
 layout: post
+title: "Nu\u0323 H\xF4n Sao B\u0103ng"
 ---
 
 **Nụ Hôn Sao Băng**

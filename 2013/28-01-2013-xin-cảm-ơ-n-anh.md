@@ -1,8 +1,9 @@
 ---
-title: "Xin Cảm Ơ n Anh"
-date: 28/01/2013
+author: Unknown
 categories: Poetry
+date: 28/01/2013
 layout: post
+title: "Xin Ca\u0309m \u01A0 n Anh"
 ---
 
 **Xin Cảm Ơ n Anh**

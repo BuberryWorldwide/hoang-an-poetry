@@ -1,8 +1,10 @@
 ---
-title: "Cùng Một Không-Gian Buộc Bởi Thời-Gian"
-date: 15/11/2007
+author: Unknown
 categories: Poetry
+date: 15/11/2007
 layout: post
+title: "Cu\u0300ng M\xF4\u0323t Kh\xF4ng-Gian Bu\xF4\u0323c B\u01A1\u0309i Th\u01A1\
+  \u0300i-Gian"
 ---
 
 **Cùng Một Không-Gian Buộc Bởi Thời-Gian**

@@ -1,8 +1,9 @@
 ---
-title: "Cõi Lặng-Thinh Cầm"
-date: 25/05/2007
+author: Unknown
 categories: Poetry
+date: 25/05/2007
 layout: post
+title: "Co\u0303i L\u0103\u0323ng-Thinh C\xE2\u0300m"
 ---
 
 **Cõi Lặng-Thinh Cầm**

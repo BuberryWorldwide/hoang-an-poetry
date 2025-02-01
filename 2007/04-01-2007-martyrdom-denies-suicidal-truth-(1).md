@@ -1,8 +1,9 @@
 ---
-title: "Martyrdom Denies Suicidal Truth (1)"
-date: 04/01/2007
+author: Unknown
 categories: Poetry
+date: 04/01/2007
 layout: post
+title: Martyrdom Denies Suicidal Truth (1)
 ---
 
 **Martyrdom Denies Suicidal Truth (1)**

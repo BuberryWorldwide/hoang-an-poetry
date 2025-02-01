@@ -1,8 +1,9 @@
 ---
-title: "Creative Property Of The People Or The Government?"
-date: 21/11/2007
+author: Unknown
 categories: Poetry
+date: 21/11/2007
 layout: post
+title: Creative Property Of The People Or The Government?
 ---
 
 **Creative Property Of The People Or The Government?**

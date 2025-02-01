@@ -1,8 +1,9 @@
 ---
-title: "NGÔI SAO NGÀY"
-date: 10/06/2012
+author: Unknown
 categories: Poetry
+date: 10/06/2012
 layout: post
+title: "NG\xD4I SAO NG\xC0Y"
 ---
 
 **NGÔI SAO NGÀY**

@@ -1,8 +1,9 @@
 ---
-title: "Người Hoa Minh-Họa"
-date: 24/01/2013
+author: Unknown
 categories: Poetry
+date: 24/01/2013
 layout: post
+title: "Ng\u01B0\u01A1\u0300i Hoa Minh-Ho\u0323a"
 ---
 
 **Người Hoa Minh-Họa**

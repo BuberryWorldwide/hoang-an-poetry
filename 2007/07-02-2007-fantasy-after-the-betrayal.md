@@ -1,8 +1,9 @@
 ---
-title: "Fantasy After The Betrayal"
-date: 07/02/2007
+author: Unknown
 categories: Poetry
+date: 07/02/2007
 layout: post
+title: Fantasy After The Betrayal
 ---
 
 **Fantasy After The Betrayal**

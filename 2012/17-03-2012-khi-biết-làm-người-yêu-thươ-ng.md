@@ -1,8 +1,9 @@
 ---
-title: "KHI BIẾT LÀM NGƯỜI YÊU THƯƠ NG"
-date: 17/03/2012
+author: Unknown
 categories: Poetry
+date: 17/03/2012
 layout: post
+title: "KHI BI\xCA\u0301T L\xC0M NG\u01AF\u01A0\u0300I Y\xCAU TH\u01AF\u01A0 NG"
 ---
 
 **KHI BIẾT LÀM NGƯỜI YÊU THƯƠ NG**

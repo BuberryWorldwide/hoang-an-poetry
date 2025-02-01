@@ -1,8 +1,9 @@
 ---
-title: "Núi Ơ i Và  Sao Ơ i..!!"
-date: 24/02/2006
+author: Unknown
 categories: Poetry
+date: 24/02/2006
 layout: post
+title: "Nu\u0301i \u01A0 i Va\u0300  Sao \u01A0 i..!!"
 ---
 
 **Núi Ơ i Và  Sao Ơ i..!!**

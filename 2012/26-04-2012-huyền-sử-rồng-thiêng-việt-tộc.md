@@ -1,8 +1,10 @@
 ---
-title: "Huyền-Sử Rồng Thiêng Việt Tộc"
-date: 26/04/2012
+author: Unknown
 categories: Poetry
+date: 26/04/2012
 layout: post
+title: "Huy\xEA\u0300n-S\u01B0\u0309 R\xF4\u0300ng Thi\xEAng Vi\xEA\u0323t T\xF4\u0323\
+  c"
 ---
 
 **Huyền-Sử Rồng Thiêng Việt Tộc**

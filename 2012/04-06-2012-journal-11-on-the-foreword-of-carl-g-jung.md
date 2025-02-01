@@ -1,8 +1,9 @@
 ---
-title: "JOURNAL 11: On The Foreword Of Carl G. Jung"
-date: 04/06/2012
+author: Unknown
 categories: Poetry
+date: 04/06/2012
 layout: post
+title: 'JOURNAL 11: On The Foreword Of Carl G. Jung'
 ---
 
 **JOURNAL 11: On The Foreword Of Carl G. Jung**

@@ -1,8 +1,10 @@
 ---
-title: "Trời Xanh.. Bầu Cạn Biển đông Cuồng Tình"
-date: 11/12/2005
+author: Unknown
 categories: Poetry
+date: 11/12/2005
 layout: post
+title: "Tr\u01A1\u0300i Xanh.. B\xE2\u0300u Ca\u0323n Bi\xEA\u0309n \u0111\xF4ng Cu\xF4\
+  \u0300ng Ti\u0300nh"
 ---
 
 **Trời Xanh.. Bầu Cạn Biển đông Cuồng Tình**

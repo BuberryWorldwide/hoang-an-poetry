@@ -1,8 +1,10 @@
 ---
-title: "Tình-Nhân Hỡi: Lời Tim Yêu Dậy Ngực"
-date: 29/12/2005
+author: Unknown
 categories: Poetry
+date: 29/12/2005
 layout: post
+title: "Ti\u0300nh-Nh\xE2n H\u01A1\u0303i: L\u01A1\u0300i Tim Y\xEAu D\xE2\u0323y\
+  \ Ng\u01B0\u0323c"
 ---
 
 **Tình-Nhân Hỡi: Lời Tim Yêu Dậy Ngực**

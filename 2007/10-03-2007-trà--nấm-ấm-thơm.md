@@ -1,8 +1,9 @@
 ---
-title: "trà  nấm ấm thơm"
-date: 10/03/2007
+author: Unknown
 categories: Poetry
+date: 10/03/2007
 layout: post
+title: "tra\u0300  n\xE2\u0301m \xE2\u0301m th\u01A1m"
 ---
 
 **trà  nấm ấm thơm**

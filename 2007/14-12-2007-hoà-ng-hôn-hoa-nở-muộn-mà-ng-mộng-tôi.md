@@ -1,8 +1,10 @@
 ---
-title: "Hoà ng-Hôn, Hoa Nở, Muộn-Mà ng Mộng Tôi"
-date: 14/12/2007
+author: Unknown
 categories: Poetry
+date: 14/12/2007
 layout: post
+title: "Hoa\u0300 ng-H\xF4n, Hoa N\u01A1\u0309, Mu\xF4\u0323n-Ma\u0300 ng M\xF4\u0323\
+  ng T\xF4i"
 ---
 
 **Hoà ng-Hôn, Hoa Nở, Muộn-Mà ng Mộng Tôi**

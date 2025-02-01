@@ -1,8 +1,9 @@
 ---
-title: "đêm Say Tình-Ái"
-date: 10/02/2007
+author: Unknown
 categories: Poetry
+date: 10/02/2007
 layout: post
+title: "\u0111\xEAm Say Ti\u0300nh-\xC1i"
 ---
 
 **đêm Say Tình-Ái**

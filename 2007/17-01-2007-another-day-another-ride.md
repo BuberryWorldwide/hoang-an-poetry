@@ -1,8 +1,9 @@
 ---
-title: "Another Day Another Ride"
-date: 17/01/2007
+author: Unknown
 categories: Poetry
+date: 17/01/2007
 layout: post
+title: Another Day Another Ride
 ---
 
 **Another Day Another Ride**

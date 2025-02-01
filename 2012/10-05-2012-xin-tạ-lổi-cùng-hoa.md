@@ -1,8 +1,9 @@
 ---
-title: "Xin Tạ Lổi Cùng Hoa"
-date: 10/05/2012
+author: Unknown
 categories: Poetry
+date: 10/05/2012
 layout: post
+title: "Xin Ta\u0323 L\xF4\u0309i Cu\u0300ng Hoa"
 ---
 
 **Xin Tạ Lổi Cùng Hoa**

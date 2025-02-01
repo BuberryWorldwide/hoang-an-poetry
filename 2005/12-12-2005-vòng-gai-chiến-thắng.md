@@ -1,8 +1,9 @@
 ---
-title: "Vòng Gai Chiến-Thắng"
-date: 12/12/2005
+author: Unknown
 categories: Poetry
+date: 12/12/2005
 layout: post
+title: "Vo\u0300ng Gai Chi\xEA\u0301n-Th\u0103\u0301ng"
 ---
 
 **Vòng Gai Chiến-Thắng**

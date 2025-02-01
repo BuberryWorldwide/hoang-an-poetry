@@ -1,8 +1,9 @@
 ---
-title: "Mạch đời Thơ Sũng Vận"
-date: 03/05/2007
+author: Unknown
 categories: Poetry
+date: 03/05/2007
 layout: post
+title: "Ma\u0323ch \u0111\u01A1\u0300i Th\u01A1 Su\u0303ng V\xE2\u0323n"
 ---
 
 **Mạch đời Thơ Sũng Vận**

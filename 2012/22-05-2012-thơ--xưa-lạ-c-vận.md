@@ -1,8 +1,9 @@
 ---
-title: "THƠ  XƯA LẠ C VẬN"
-date: 22/05/2012
+author: Unknown
 categories: Poetry
+date: 22/05/2012
 layout: post
+title: "TH\u01A0  X\u01AFA LA\u0323 C V\u1EACN"
 ---
 
 **THƠ  XƯA LẠ C VẬN**

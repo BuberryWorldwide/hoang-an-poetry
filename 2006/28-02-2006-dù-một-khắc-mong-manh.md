@@ -1,8 +1,9 @@
 ---
-title: "Dù Một Khắc Mong-Manh"
-date: 28/02/2006
+author: Unknown
 categories: Poetry
+date: 28/02/2006
 layout: post
+title: "Du\u0300 M\xF4\u0323t Kh\u0103\u0301c Mong-Manh"
 ---
 
 **Dù Một Khắc Mong-Manh**

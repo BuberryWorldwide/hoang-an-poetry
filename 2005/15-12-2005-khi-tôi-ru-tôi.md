@@ -1,8 +1,9 @@
 ---
-title: "Khi Tôi Ru Tôi"
-date: 15/12/2005
+author: Unknown
 categories: Poetry
+date: 15/12/2005
 layout: post
+title: "Khi T\xF4i Ru T\xF4i"
 ---
 
 **Khi Tôi Ru Tôi**

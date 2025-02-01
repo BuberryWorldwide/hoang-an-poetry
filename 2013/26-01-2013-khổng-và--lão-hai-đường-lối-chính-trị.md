@@ -1,8 +1,10 @@
 ---
-title: "Khổng và  Lão: Hai đường Lối Chính-Trị"
-date: 26/01/2013
+author: Unknown
 categories: Poetry
+date: 26/01/2013
 layout: post
+title: "Kh\xF4\u0309ng va\u0300  La\u0303o: Hai \u0111\u01B0\u01A1\u0300ng L\xF4\u0301\
+  i Chi\u0301nh-Tri\u0323"
 ---
 
 **Khổng và  Lão: Hai đường Lối Chính-Trị**

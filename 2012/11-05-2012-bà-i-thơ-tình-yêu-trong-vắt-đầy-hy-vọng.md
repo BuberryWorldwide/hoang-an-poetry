@@ -1,8 +1,10 @@
 ---
-title: "Bà i Thơ Tình Yêu Trong Vắt đầy Hy-Vọng"
-date: 11/05/2012
+author: Unknown
 categories: Poetry
+date: 11/05/2012
 layout: post
+title: "Ba\u0300 i Th\u01A1 Ti\u0300nh Y\xEAu Trong V\u0103\u0301t \u0111\xE2\u0300\
+  y Hy-Vo\u0323ng"
 ---
 
 **Bà i Thơ Tình Yêu Trong Vắt đầy Hy-Vọng**

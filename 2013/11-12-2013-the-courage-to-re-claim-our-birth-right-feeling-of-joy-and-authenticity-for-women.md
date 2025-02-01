@@ -1,8 +1,10 @@
 ---
-title: "The Courage to Re-Claim Our Birth-Right Feeling of Joy and Authenticity For Women"
-date: 11/12/2013
+author: Unknown
 categories: Poetry
+date: 11/12/2013
 layout: post
+title: The Courage to Re-Claim Our Birth-Right Feeling of Joy and Authenticity For
+  Women
 ---
 
 **The Courage to Re-Claim Our Birth-Right Feeling of Joy and Authenticity For Women**

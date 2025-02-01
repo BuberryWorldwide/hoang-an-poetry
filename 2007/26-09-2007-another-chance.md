@@ -1,8 +1,9 @@
 ---
-title: "Another Chance"
-date: 26/09/2007
+author: Unknown
 categories: Poetry
+date: 26/09/2007
 layout: post
+title: Another Chance
 ---
 
 **Another Chance**

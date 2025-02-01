@@ -1,8 +1,9 @@
 ---
-title: "JOURNAL 14: Exercise for Elizabeth Cowan's Course on Writing"
-date: 03/06/2012
+author: Unknown
 categories: Poetry
+date: 03/06/2012
 layout: post
+title: 'JOURNAL 14: Exercise for Elizabeth Cowan''s Course on Writing'
 ---
 
 **JOURNAL 14: Exercise for Elizabeth Cowan's Course on Writing**

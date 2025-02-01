@@ -1,8 +1,9 @@
 ---
-title: "Feet With Socks On"
-date: 09/04/2012
+author: Unknown
 categories: Poetry
+date: 09/04/2012
 layout: post
+title: Feet With Socks On
 ---
 
 **Feet With Socks On**

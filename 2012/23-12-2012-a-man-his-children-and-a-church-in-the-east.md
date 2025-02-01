@@ -1,8 +1,9 @@
 ---
-title: "A Man, His Children, and A Church In The East"
-date: 23/12/2012
+author: Unknown
 categories: Poetry
+date: 23/12/2012
 layout: post
+title: A Man, His Children, and A Church In The East
 ---
 
 **A Man, His Children, and A Church In The East**

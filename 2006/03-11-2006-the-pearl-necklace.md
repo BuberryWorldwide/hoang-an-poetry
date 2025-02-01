@@ -1,8 +1,9 @@
 ---
-title: "The Pearl Necklace"
-date: 03/11/2006
+author: Unknown
 categories: Poetry
+date: 03/11/2006
 layout: post
+title: The Pearl Necklace
 ---
 
 **The Pearl Necklace**

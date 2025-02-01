@@ -1,8 +1,9 @@
 ---
-title: "A Walk In A Night Of The Freedom Of Temporary Sanity"
-date: 17/05/2012
+author: Unknown
 categories: Poetry
+date: 17/05/2012
 layout: post
+title: A Walk In A Night Of The Freedom Of Temporary Sanity
 ---
 
 **A Walk In A Night Of The Freedom Of Temporary Sanity**

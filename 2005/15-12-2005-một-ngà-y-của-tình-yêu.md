@@ -1,8 +1,9 @@
 ---
-title: "Một Ngà y Của Tình Yêu"
-date: 15/12/2005
+author: Unknown
 categories: Poetry
+date: 15/12/2005
 layout: post
+title: "M\xF4\u0323t Nga\u0300 y Cu\u0309a Ti\u0300nh Y\xEAu"
 ---
 
 **Một Ngà y Của Tình Yêu**

@@ -1,8 +1,9 @@
 ---
-title: "Một Mùa Tình Chung"
-date: 16/02/2007
+author: Unknown
 categories: Poetry
+date: 16/02/2007
 layout: post
+title: "M\xF4\u0323t Mu\u0300a Ti\u0300nh Chung"
 ---
 
 **Một Mùa Tình Chung**

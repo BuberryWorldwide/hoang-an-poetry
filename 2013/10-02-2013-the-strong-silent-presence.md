@@ -1,8 +1,9 @@
 ---
-title: "The Strong Silent Presence"
-date: 10/02/2013
+author: Unknown
 categories: Poetry
+date: 10/02/2013
 layout: post
+title: The Strong Silent Presence
 ---
 
 **The Strong Silent Presence**

@@ -1,8 +1,9 @@
 ---
-title: "The Shedding"
-date: 16/09/2007
+author: Unknown
 categories: Poetry
+date: 16/09/2007
 layout: post
+title: The Shedding
 ---
 
 **The Shedding**

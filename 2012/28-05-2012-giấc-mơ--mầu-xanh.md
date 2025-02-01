@@ -1,8 +1,9 @@
 ---
-title: "GIẤC MƠ  MẦU XANH"
-date: 28/05/2012
+author: Unknown
 categories: Poetry
+date: 28/05/2012
 layout: post
+title: "GI\xC2\u0301C M\u01A0  M\u1EA6U XANH"
 ---
 
 **GIẤC MƠ  MẦU XANH**

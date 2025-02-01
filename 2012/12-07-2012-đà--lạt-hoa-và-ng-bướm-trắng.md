@@ -1,8 +1,10 @@
 ---
-title: "đà -Lạt Hoa Và ng Bướm Trắng"
-date: 12/07/2012
+author: Unknown
 categories: Poetry
+date: 12/07/2012
 layout: post
+title: "\u0111a\u0300 -La\u0323t Hoa Va\u0300 ng B\u01B0\u01A1\u0301m Tr\u0103\u0301\
+  ng"
 ---
 
 **đà -Lạt Hoa Và ng Bướm Trắng**

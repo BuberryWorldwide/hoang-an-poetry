@@ -1,8 +1,10 @@
 ---
-title: "Lời Sao Hẹn Yêu-đương Cùng Ánh-Sáng"
-date: 28/12/2005
+author: Unknown
 categories: Poetry
+date: 28/12/2005
 layout: post
+title: "L\u01A1\u0300i Sao He\u0323n Y\xEAu-\u0111\u01B0\u01A1ng Cu\u0300ng \xC1nh-Sa\u0301\
+  ng"
 ---
 
 **Lời Sao Hẹn Yêu-đương Cùng Ánh-Sáng**

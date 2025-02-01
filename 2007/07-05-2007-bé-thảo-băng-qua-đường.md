@@ -1,8 +1,9 @@
 ---
-title: "Bé Thảo Băng Qua đường"
-date: 07/05/2007
+author: Unknown
 categories: Poetry
+date: 07/05/2007
 layout: post
+title: "Be\u0301 Tha\u0309o B\u0103ng Qua \u0111\u01B0\u01A1\u0300ng"
 ---
 
 **Bé Thảo Băng Qua đường**

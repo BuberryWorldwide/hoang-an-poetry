@@ -1,8 +1,9 @@
 ---
-title: "Xin Một Bông Hồng (2)"
-date: 19/12/2007
+author: Unknown
 categories: Poetry
+date: 19/12/2007
 layout: post
+title: "Xin M\xF4\u0323t B\xF4ng H\xF4\u0300ng (2)"
 ---
 
 **Xin Một Bông Hồng (2)**

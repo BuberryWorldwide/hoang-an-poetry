@@ -1,8 +1,9 @@
 ---
-title: "Sợi Tóc Trăng"
-date: 06/05/2012
+author: Unknown
 categories: Poetry
+date: 06/05/2012
 layout: post
+title: "S\u01A1\u0323i To\u0301c Tr\u0103ng"
 ---
 
 **Sợi Tóc Trăng**

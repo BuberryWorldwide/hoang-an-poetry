@@ -1,8 +1,9 @@
 ---
-title: "Sự-Tích Chiếc Khăn Choà ng Cổ"
-date: 05/12/2005
+author: Unknown
 categories: Poetry
+date: 05/12/2005
 layout: post
+title: "S\u01B0\u0323-Ti\u0301ch Chi\xEA\u0301c Kh\u0103n Choa\u0300 ng C\xF4\u0309"
 ---
 
 **Sự-Tích Chiếc Khăn Choà ng Cổ**

@@ -1,8 +1,9 @@
 ---
-title: "Tóc Chải đợi Tóc Tình"
-date: 12/10/2007
+author: Unknown
 categories: Poetry
+date: 12/10/2007
 layout: post
+title: "To\u0301c Cha\u0309i \u0111\u01A1\u0323i To\u0301c Ti\u0300nh"
 ---
 
 **Tóc Chải đợi Tóc Tình**

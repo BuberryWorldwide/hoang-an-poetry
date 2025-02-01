@@ -1,8 +1,9 @@
 ---
-title: "Con Tim Mù Lòa"
-date: 11/09/2007
+author: Unknown
 categories: Poetry
+date: 11/09/2007
 layout: post
+title: "Con Tim Mu\u0300 Lo\u0300a"
 ---
 
 **Con Tim Mù Lòa**

@@ -1,8 +1,9 @@
 ---
-title: "Nghi-Thức Tình Yêu"
-date: 29/04/2012
+author: Unknown
 categories: Poetry
+date: 29/04/2012
 layout: post
+title: "Nghi-Th\u01B0\u0301c Ti\u0300nh Y\xEAu"
 ---
 
 **Nghi-Thức Tình Yêu**

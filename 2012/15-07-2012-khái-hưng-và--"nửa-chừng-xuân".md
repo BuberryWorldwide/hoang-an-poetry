@@ -1,9 +1,3 @@
----
-title: "Khái-Hưng và  "Nửa Chừng Xuân""
-date: 15/07/2012
-categories: Poetry
-layout: post
----
 
 **Khái-Hưng và  "Nửa Chừng Xuân"**
 

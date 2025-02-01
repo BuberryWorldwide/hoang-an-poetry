@@ -1,8 +1,9 @@
 ---
-title: "Waking Up Into World Peace"
-date: 15/01/2013
+author: Unknown
 categories: Poetry
+date: 15/01/2013
 layout: post
+title: Waking Up Into World Peace
 ---
 
 **Waking Up Into World Peace**

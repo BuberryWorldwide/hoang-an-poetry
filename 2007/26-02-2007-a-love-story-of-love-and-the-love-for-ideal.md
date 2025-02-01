@@ -1,8 +1,9 @@
 ---
-title: "A Love Story Of Love And The Love For Ideal"
-date: 26/02/2007
+author: Unknown
 categories: Poetry
+date: 26/02/2007
 layout: post
+title: A Love Story Of Love And The Love For Ideal
 ---
 
 **A Love Story Of Love And The Love For Ideal**

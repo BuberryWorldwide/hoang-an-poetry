@@ -1,8 +1,9 @@
 ---
-title: "đêm Thánh Vô-Cùng..."
-date: 22/12/2005
+author: Unknown
 categories: Poetry
+date: 22/12/2005
 layout: post
+title: "\u0111\xEAm Tha\u0301nh V\xF4-Cu\u0300ng..."
 ---
 
 **đêm Thánh Vô-Cùng...**

@@ -1,8 +1,9 @@
 ---
-title: "Chợt Lạ Mặt Chính Mình"
-date: 26/02/2006
+author: Unknown
 categories: Poetry
+date: 26/02/2006
 layout: post
+title: "Ch\u01A1\u0323t La\u0323 M\u0103\u0323t Chi\u0301nh Mi\u0300nh"
 ---
 
 **Chợt Lạ Mặt Chính Mình**

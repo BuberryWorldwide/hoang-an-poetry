@@ -1,8 +1,9 @@
 ---
-title: "slowing the hands of time"
-date: 03/08/2007
+author: Unknown
 categories: Poetry
+date: 03/08/2007
 layout: post
+title: slowing the hands of time
 ---
 
 **slowing the hands of time**

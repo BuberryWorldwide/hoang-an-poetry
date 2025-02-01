@@ -1,8 +1,9 @@
 ---
-title: "ở nhà  ngà y còn bé"
-date: 29/05/2012
+author: Unknown
 categories: Poetry
+date: 29/05/2012
 layout: post
+title: "\u01A1\u0309 nha\u0300  nga\u0300 y co\u0300n be\u0301"
 ---
 
 **ở nhà  ngà y còn bé**

@@ -1,8 +1,9 @@
 ---
-title: "Encountering With A Poetry Course's Professor"
-date: 05/01/2007
+author: Unknown
 categories: Poetry
+date: 05/01/2007
 layout: post
+title: Encountering With A Poetry Course's Professor
 ---
 
 **Encountering With A Poetry Course's Professor**

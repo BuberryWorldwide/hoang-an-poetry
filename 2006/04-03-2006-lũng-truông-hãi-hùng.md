@@ -1,8 +1,9 @@
 ---
-title: "Lũng Truông Hãi-Hùng"
-date: 04/03/2006
+author: Unknown
 categories: Poetry
+date: 04/03/2006
 layout: post
+title: "Lu\u0303ng Tru\xF4ng Ha\u0303i-Hu\u0300ng"
 ---
 
 **Lũng Truông Hãi-Hùng**

@@ -1,8 +1,10 @@
 ---
-title: "Huy-Hoà ng Những Ngôi Sao Mặt Trời Vô-Tận Trong Vũ-Trụ Giọng Cười Anh"
-date: 04/12/2005
+author: Unknown
 categories: Poetry
+date: 04/12/2005
 layout: post
+title: "Huy-Hoa\u0300 ng Nh\u01B0\u0303ng Ng\xF4i Sao M\u0103\u0323t Tr\u01A1\u0300\
+  i V\xF4-T\xE2\u0323n Trong Vu\u0303-Tru\u0323 Gio\u0323ng C\u01B0\u01A1\u0300i Anh"
 ---
 
 **Huy-Hoà ng Những Ngôi Sao Mặt Trời Vô-Tận Trong Vũ-Trụ Giọng Cười Anh**

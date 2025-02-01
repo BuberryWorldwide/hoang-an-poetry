@@ -1,8 +1,9 @@
 ---
-title: "Yêu Tình Yêu Tôi Yêu"
-date: 22/08/2007
+author: Unknown
 categories: Poetry
+date: 22/08/2007
 layout: post
+title: "Y\xEAu Ti\u0300nh Y\xEAu T\xF4i Y\xEAu"
 ---
 
 **Yêu Tình Yêu Tôi Yêu**

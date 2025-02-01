@@ -1,8 +1,9 @@
 ---
-title: "Cầu-Nguyện Bằng Tiếng Thở"
-date: 27/04/2007
+author: Unknown
 categories: Poetry
+date: 27/04/2007
 layout: post
+title: "C\xE2\u0300u-Nguy\xEA\u0323n B\u0103\u0300ng Ti\xEA\u0301ng Th\u01A1\u0309"
 ---
 
 **Cầu-Nguyện Bằng Tiếng Thở**

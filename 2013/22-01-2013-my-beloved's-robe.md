@@ -1,8 +1,9 @@
 ---
-title: "My Beloved's Robe"
-date: 22/01/2013
+author: Unknown
 categories: Poetry
+date: 22/01/2013
 layout: post
+title: My Beloved's Robe
 ---
 
 **My Beloved's Robe**

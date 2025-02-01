@@ -1,8 +1,9 @@
 ---
-title: "Sometimes I Dream Of Anarchy"
-date: 02/03/2007
+author: Unknown
 categories: Poetry
+date: 02/03/2007
 layout: post
+title: Sometimes I Dream Of Anarchy
 ---
 
 **Sometimes I Dream Of Anarchy**

@@ -1,8 +1,9 @@
 ---
-title: "TÌNH YÊU CỔ-TÍCH"
-date: 19/03/2012
+author: Unknown
 categories: Poetry
+date: 19/03/2012
 layout: post
+title: "T\xCCNH Y\xCAU C\u1ED4-T\xCDCH"
 ---
 
 **TÌNH YÊU CỔ-TÍCH**

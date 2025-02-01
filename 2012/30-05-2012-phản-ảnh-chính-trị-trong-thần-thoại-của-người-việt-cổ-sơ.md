@@ -1,8 +1,10 @@
 ---
-title: "Phản-Ảnh Chính-Trị Trong Thần-Thoại Của Người Việt Cổ-Sơ"
-date: 30/05/2012
+author: Unknown
 categories: Poetry
+date: 30/05/2012
 layout: post
+title: "Pha\u0309n-\u1EA2nh Chi\u0301nh-Tri\u0323 Trong Th\xE2\u0300n-Thoa\u0323i\
+  \ Cu\u0309a Ng\u01B0\u01A1\u0300i Vi\xEA\u0323t C\xF4\u0309-S\u01A1"
 ---
 
 **Phản-Ảnh Chính-Trị Trong Thần-Thoại Của Người Việt Cổ-Sơ**

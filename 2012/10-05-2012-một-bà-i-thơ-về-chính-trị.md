@@ -1,8 +1,9 @@
 ---
-title: "Một Bà i Thơ Về Chính-Trị"
-date: 10/05/2012
+author: Unknown
 categories: Poetry
+date: 10/05/2012
 layout: post
+title: "M\xF4\u0323t Ba\u0300 i Th\u01A1 V\xEA\u0300 Chi\u0301nh-Tri\u0323"
 ---
 
 **Một Bà i Thơ Về Chính-Trị**

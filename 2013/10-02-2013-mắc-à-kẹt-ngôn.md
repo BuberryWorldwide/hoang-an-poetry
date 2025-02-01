@@ -1,9 +1,3 @@
----
-title: "Mắc à Kẹt Ngôn"
-date: 10/02/2013
-categories: Poetry
-layout: post
----
 
 **Mắc à Kẹt Ngôn**
 

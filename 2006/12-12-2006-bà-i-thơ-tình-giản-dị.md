@@ -1,8 +1,9 @@
 ---
-title: "Bà i Thơ Tình Giản-Dị"
-date: 12/12/2006
+author: Unknown
 categories: Poetry
+date: 12/12/2006
 layout: post
+title: "Ba\u0300 i Th\u01A1 Ti\u0300nh Gia\u0309n-Di\u0323"
 ---
 
 **Bà i Thơ Tình Giản-Dị**

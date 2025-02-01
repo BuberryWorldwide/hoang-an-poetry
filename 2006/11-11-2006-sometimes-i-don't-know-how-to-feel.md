@@ -1,8 +1,9 @@
 ---
-title: "Sometimes I Don't Know How To Feel"
-date: 11/11/2006
+author: Unknown
 categories: Poetry
+date: 11/11/2006
 layout: post
+title: Sometimes I Don't Know How To Feel
 ---
 
 **Sometimes I Don't Know How To Feel**

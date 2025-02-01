@@ -1,8 +1,9 @@
 ---
-title: "Island of Emerald Green"
-date: 26/08/2007
+author: Unknown
 categories: Poetry
+date: 26/08/2007
 layout: post
+title: Island of Emerald Green
 ---
 
 **Island of Emerald Green**

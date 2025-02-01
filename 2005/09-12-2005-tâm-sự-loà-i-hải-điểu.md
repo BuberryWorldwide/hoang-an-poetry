@@ -1,8 +1,9 @@
 ---
-title: "Tâm-Sự Loà i Hải-điểu"
-date: 09/12/2005
+author: Unknown
 categories: Poetry
+date: 09/12/2005
 layout: post
+title: "T\xE2m-S\u01B0\u0323 Loa\u0300 i Ha\u0309i-\u0111i\xEA\u0309u"
 ---
 
 **Tâm-Sự Loà i Hải-điểu**

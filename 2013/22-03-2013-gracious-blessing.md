@@ -1,8 +1,9 @@
 ---
-title: "Gracious Blessing"
-date: 22/03/2013
+author: Unknown
 categories: Poetry
+date: 22/03/2013
 layout: post
+title: Gracious Blessing
 ---
 
 **Gracious Blessing**

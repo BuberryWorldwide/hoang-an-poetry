@@ -1,8 +1,10 @@
 ---
-title: "Quá-Khứ Ấp-Ủ Cho Ta Niềm Hạnh-Nguyện Khôn-Nguôi"
-date: 01/03/2006
+author: Unknown
 categories: Poetry
+date: 01/03/2006
 layout: post
+title: "Qua\u0301-Kh\u01B0\u0301 \xC2\u0301p-U\u0309 Cho Ta Ni\xEA\u0300m Ha\u0323\
+  nh-Nguy\xEA\u0323n Kh\xF4n-Ngu\xF4i"
 ---
 
 **Quá-Khứ Ấp-Ủ Cho Ta Niềm Hạnh-Nguyện Khôn-Nguôi**

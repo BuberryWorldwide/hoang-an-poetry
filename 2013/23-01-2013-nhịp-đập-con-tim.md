@@ -1,8 +1,9 @@
 ---
-title: "Nhịp đập Con Tim"
-date: 23/01/2013
+author: Unknown
 categories: Poetry
+date: 23/01/2013
 layout: post
+title: "Nhi\u0323p \u0111\xE2\u0323p Con Tim"
 ---
 
 **Nhịp đập Con Tim**

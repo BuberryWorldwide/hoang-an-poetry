@@ -1,8 +1,9 @@
 ---
-title: "THE BLOCK OF BLUE"
-date: 17/01/2007
+author: Unknown
 categories: Poetry
+date: 17/01/2007
 layout: post
+title: THE BLOCK OF BLUE
 ---
 
 **THE BLOCK OF BLUE**

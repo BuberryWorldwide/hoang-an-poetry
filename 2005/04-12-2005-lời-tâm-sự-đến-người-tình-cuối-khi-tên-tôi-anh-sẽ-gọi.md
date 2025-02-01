@@ -1,8 +1,10 @@
 ---
-title: "Lời Tâm-Sự đến Người-Tình-Cuối: Khi Tên Tôi, Anh Sẽ Gọi:"
-date: 04/12/2005
+author: Unknown
 categories: Poetry
+date: 04/12/2005
 layout: post
+title: "L\u01A1\u0300i T\xE2m-S\u01B0\u0323 \u0111\xEA\u0301n Ng\u01B0\u01A1\u0300\
+  i-Ti\u0300nh-Cu\xF4\u0301i: Khi T\xEAn T\xF4i, Anh Se\u0303 Go\u0323i:"
 ---
 
 **Lời Tâm-Sự đến Người-Tình-Cuối: Khi Tên Tôi, Anh Sẽ Gọi:**

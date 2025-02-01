@@ -1,8 +1,9 @@
 ---
-title: "Dòng Lệ Của Không-Trung"
-date: 16/09/2007
+author: Unknown
 categories: Poetry
+date: 16/09/2007
 layout: post
+title: "Do\u0300ng L\xEA\u0323 Cu\u0309a Kh\xF4ng-Trung"
 ---
 
 **Dòng Lệ Của Không-Trung**

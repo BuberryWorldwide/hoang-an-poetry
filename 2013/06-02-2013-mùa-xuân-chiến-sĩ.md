@@ -1,8 +1,9 @@
 ---
-title: "Mùa Xuân Chiến-Sĩ"
-date: 06/02/2013
+author: Unknown
 categories: Poetry
+date: 06/02/2013
 layout: post
+title: "Mu\u0300a Xu\xE2n Chi\xEA\u0301n-Si\u0303"
 ---
 
 **Mùa Xuân Chiến-Sĩ**

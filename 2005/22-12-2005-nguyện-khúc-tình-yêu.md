@@ -1,8 +1,9 @@
 ---
-title: "Nguyện-Khúc Tình Yêu"
-date: 22/12/2005
+author: Unknown
 categories: Poetry
+date: 22/12/2005
 layout: post
+title: "Nguy\xEA\u0323n-Khu\u0301c Ti\u0300nh Y\xEAu"
 ---
 
 **Nguyện-Khúc Tình Yêu**

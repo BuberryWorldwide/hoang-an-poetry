@@ -1,8 +1,9 @@
 ---
-title: "Tiếng Hát Câm Ngất-Tuyệt"
-date: 08/11/2006
+author: Unknown
 categories: Poetry
+date: 08/11/2006
 layout: post
+title: "Ti\xEA\u0301ng Ha\u0301t C\xE2m Ng\xE2\u0301t-Tuy\xEA\u0323t"
 ---
 
 **Tiếng Hát Câm Ngất-Tuyệt**

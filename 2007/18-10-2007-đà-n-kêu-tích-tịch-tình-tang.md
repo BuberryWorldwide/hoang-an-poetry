@@ -1,8 +1,9 @@
 ---
-title: "đà n Kêu Tích Tịch Tình Tang"
-date: 18/10/2007
+author: Unknown
 categories: Poetry
+date: 18/10/2007
 layout: post
+title: "\u0111a\u0300 n K\xEAu Ti\u0301ch Ti\u0323ch Ti\u0300nh Tang"
 ---
 
 **đà n Kêu Tích Tịch Tình Tang**

@@ -1,8 +1,9 @@
 ---
-title: "The Ultima of an Ultimatum"
-date: 23/02/2013
+author: Unknown
 categories: Poetry
+date: 23/02/2013
 layout: post
+title: The Ultima of an Ultimatum
 ---
 
 **The Ultima of an Ultimatum**

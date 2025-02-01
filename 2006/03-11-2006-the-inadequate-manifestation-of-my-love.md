@@ -1,8 +1,9 @@
 ---
-title: "The Inadequate Manifestation Of My Love"
-date: 03/11/2006
+author: Unknown
 categories: Poetry
+date: 03/11/2006
 layout: post
+title: The Inadequate Manifestation Of My Love
 ---
 
 **The Inadequate Manifestation Of My Love**

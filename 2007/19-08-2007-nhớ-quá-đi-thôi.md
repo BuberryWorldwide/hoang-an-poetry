@@ -1,8 +1,9 @@
 ---
-title: "Nhớ Quá đi Thôi"
-date: 19/08/2007
+author: Unknown
 categories: Poetry
+date: 19/08/2007
 layout: post
+title: "Nh\u01A1\u0301 Qua\u0301 \u0111i Th\xF4i"
 ---
 
 **Nhớ Quá đi Thôi**

@@ -1,8 +1,10 @@
 ---
-title: "VoÂ¬ Phiến: Văn-Chương Và  Chi-Tiết"
-date: 11/06/2012
+author: Unknown
 categories: Poetry
+date: 11/06/2012
 layout: post
+title: "Vo\xC2\xAC Phi\xEA\u0301n: V\u0103n-Ch\u01B0\u01A1ng Va\u0300  Chi-Ti\xEA\u0301\
+  t"
 ---
 
 **VoÂ¬ Phiến: Văn-Chương Và  Chi-Tiết**

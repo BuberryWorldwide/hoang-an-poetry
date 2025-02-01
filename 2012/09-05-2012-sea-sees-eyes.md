@@ -1,8 +1,9 @@
 ---
-title: "SEA SEES EYES"
-date: 09/05/2012
+author: Unknown
 categories: Poetry
+date: 09/05/2012
 layout: post
+title: SEA SEES EYES
 ---
 
 **SEA SEES EYES**

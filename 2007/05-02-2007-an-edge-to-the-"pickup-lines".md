@@ -1,9 +1,3 @@
----
-title: "An Edge to The "Pickup Lines""
-date: 05/02/2007
-categories: Poetry
-layout: post
----
 
 **An Edge to The "Pickup Lines"**
 

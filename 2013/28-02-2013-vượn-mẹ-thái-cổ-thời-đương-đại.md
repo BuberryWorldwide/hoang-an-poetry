@@ -1,8 +1,10 @@
 ---
-title: "Vượn Mẹ Thái-Cổ Thời đương-đại"
-date: 28/02/2013
+author: Unknown
 categories: Poetry
+date: 28/02/2013
 layout: post
+title: "V\u01B0\u01A1\u0323n Me\u0323 Tha\u0301i-C\xF4\u0309 Th\u01A1\u0300i \u0111\
+  \u01B0\u01A1ng-\u0111a\u0323i"
 ---
 
 **Vượn Mẹ Thái-Cổ Thời đương-đại**

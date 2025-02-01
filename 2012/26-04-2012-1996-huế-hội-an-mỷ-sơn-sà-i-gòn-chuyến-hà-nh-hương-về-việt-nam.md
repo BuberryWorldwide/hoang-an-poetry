@@ -1,8 +1,10 @@
 ---
-title: "1996: Huế, Hội-An, Mỷ-Sơn, Sà i-Gòn: Chuyến Hà nh-Hương Về Việt-Nam"
-date: 26/04/2012
+author: Unknown
 categories: Poetry
+date: 26/04/2012
 layout: post
+title: "1996: Hu\xEA\u0301, H\xF4\u0323i-An, My\u0309-S\u01A1n, Sa\u0300 i-Go\u0300\
+  n: Chuy\xEA\u0301n Ha\u0300 nh-H\u01B0\u01A1ng V\xEA\u0300 Vi\xEA\u0323t-Nam"
 ---
 
 **1996: Huế, Hội-An, Mỷ-Sơn, Sà i-Gòn: Chuyến Hà nh-Hương Về Việt-Nam**

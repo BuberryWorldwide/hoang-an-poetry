@@ -1,8 +1,10 @@
 ---
-title: "Sự Bình-Thường Trong Một Thế-Gian Tương-đối"
-date: 07/03/2013
+author: Unknown
 categories: Poetry
+date: 07/03/2013
 layout: post
+title: "S\u01B0\u0323 Bi\u0300nh-Th\u01B0\u01A1\u0300ng Trong M\xF4\u0323t Th\xEA\u0301\
+  -Gian T\u01B0\u01A1ng-\u0111\xF4\u0301i"
 ---
 
 **Sự Bình-Thường Trong Một Thế-Gian Tương-đối**

@@ -1,8 +1,9 @@
 ---
-title: "The Dearest Most Incomprehensible Captor"
-date: 29/04/2007
+author: Unknown
 categories: Poetry
+date: 29/04/2007
 layout: post
+title: The Dearest Most Incomprehensible Captor
 ---
 
 **The Dearest Most Incomprehensible Captor**

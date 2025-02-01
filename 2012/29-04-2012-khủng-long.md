@@ -1,8 +1,9 @@
 ---
-title: "KHỦNG-LONG"
-date: 29/04/2012
+author: Unknown
 categories: Poetry
+date: 29/04/2012
 layout: post
+title: "KHU\u0309NG-LONG"
 ---
 
 **KHỦNG-LONG**

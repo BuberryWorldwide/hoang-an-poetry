@@ -1,8 +1,9 @@
 ---
-title: "Ghét Những Sợi Dây đà n"
-date: 02/01/2013
+author: Unknown
 categories: Poetry
+date: 02/01/2013
 layout: post
+title: "Ghe\u0301t Nh\u01B0\u0303ng S\u01A1\u0323i D\xE2y \u0111a\u0300 n"
 ---
 
 **Ghét Những Sợi Dây đà n**

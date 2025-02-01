@@ -1,8 +1,9 @@
 ---
-title: "INTERSTELLAR SUPERSTAR"
-date: 13/10/2007
+author: Unknown
 categories: Poetry
+date: 13/10/2007
 layout: post
+title: INTERSTELLAR SUPERSTAR
 ---
 
 **INTERSTELLAR SUPERSTAR**

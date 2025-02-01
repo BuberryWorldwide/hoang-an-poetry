@@ -1,8 +1,9 @@
 ---
-title: "Giấc Trưa Hạ Nở Huy-Hoà ng"
-date: 06/05/2012
+author: Unknown
 categories: Poetry
+date: 06/05/2012
 layout: post
+title: "Gi\xE2\u0301c Tr\u01B0a Ha\u0323 N\u01A1\u0309 Huy-Hoa\u0300 ng"
 ---
 
 **Giấc Trưa Hạ Nở Huy-Hoà ng**

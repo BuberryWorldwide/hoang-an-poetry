@@ -1,8 +1,10 @@
 ---
-title: "Khi Phương-Tiện Và  Cứu-Cánh Nhập Một"
-date: 19/08/2007
+author: Unknown
 categories: Poetry
+date: 19/08/2007
 layout: post
+title: "Khi Ph\u01B0\u01A1ng-Ti\xEA\u0323n Va\u0300  C\u01B0\u0301u-Ca\u0301nh Nh\xE2\
+  \u0323p M\xF4\u0323t"
 ---
 
 **Khi Phương-Tiện Và  Cứu-Cánh Nhập Một**

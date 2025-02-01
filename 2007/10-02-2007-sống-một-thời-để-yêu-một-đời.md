@@ -1,8 +1,10 @@
 ---
-title: "Sống Một Thời để Yêu Một đời"
-date: 10/02/2007
+author: Unknown
 categories: Poetry
+date: 10/02/2007
 layout: post
+title: "S\xF4\u0301ng M\xF4\u0323t Th\u01A1\u0300i \u0111\xEA\u0309 Y\xEAu M\xF4\u0323\
+  t \u0111\u01A1\u0300i"
 ---
 
 **Sống Một Thời để Yêu Một đời**

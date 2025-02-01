@@ -1,8 +1,9 @@
 ---
-title: "71 North, Nevada"
-date: 31/01/2013
+author: Unknown
 categories: Poetry
+date: 31/01/2013
 layout: post
+title: 71 North, Nevada
 ---
 
 **71 North, Nevada**

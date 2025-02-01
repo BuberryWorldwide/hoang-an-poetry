@@ -1,8 +1,9 @@
 ---
-title: "Tình Yêu Và  Từng Ngà y Của Hôm Nay..."
-date: 07/12/2005
+author: Unknown
 categories: Poetry
+date: 07/12/2005
 layout: post
+title: "Ti\u0300nh Y\xEAu Va\u0300  T\u01B0\u0300ng Nga\u0300 y Cu\u0309a H\xF4m Nay..."
 ---
 
 **Tình Yêu Và  Từng Ngà y Của Hôm Nay...**

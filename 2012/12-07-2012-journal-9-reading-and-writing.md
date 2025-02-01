@@ -1,8 +1,9 @@
 ---
-title: "Journal 9: Reading and Writing"
-date: 12/07/2012
+author: Unknown
 categories: Poetry
+date: 12/07/2012
 layout: post
+title: 'Journal 9: Reading and Writing'
 ---
 
 **Journal 9: Reading and Writing**

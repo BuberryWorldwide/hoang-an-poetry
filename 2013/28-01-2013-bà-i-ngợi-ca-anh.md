@@ -1,8 +1,9 @@
 ---
-title: "Bà i Ngợi-Ca Anh"
-date: 28/01/2013
+author: Unknown
 categories: Poetry
+date: 28/01/2013
 layout: post
+title: "Ba\u0300 i Ng\u01A1\u0323i-Ca Anh"
 ---
 
 **Bà i Ngợi-Ca Anh**

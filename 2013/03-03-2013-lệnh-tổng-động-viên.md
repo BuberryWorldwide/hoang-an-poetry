@@ -1,8 +1,9 @@
 ---
-title: "Lệnh Tổng-động-Viên"
-date: 03/03/2013
+author: Unknown
 categories: Poetry
+date: 03/03/2013
 layout: post
+title: "L\xEA\u0323nh T\xF4\u0309ng-\u0111\xF4\u0323ng-Vi\xEAn"
 ---
 
 **Lệnh Tổng-động-Viên**

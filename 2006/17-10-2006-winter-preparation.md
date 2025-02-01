@@ -1,8 +1,9 @@
 ---
-title: "Winter Preparation"
-date: 17/10/2006
+author: Unknown
 categories: Poetry
+date: 17/10/2006
 layout: post
+title: Winter Preparation
 ---
 
 **Winter Preparation**

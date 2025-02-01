@@ -1,8 +1,9 @@
 ---
-title: "Gậy Ta Ta Vót"
-date: 25/07/2012
+author: Unknown
 categories: Poetry
+date: 25/07/2012
 layout: post
+title: "G\xE2\u0323y Ta Ta Vo\u0301t"
 ---
 
 **Gậy Ta Ta Vót**

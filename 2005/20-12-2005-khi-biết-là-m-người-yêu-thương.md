@@ -1,8 +1,9 @@
 ---
-title: "Khi Biết Là m Người-Yêu-Thương"
-date: 20/12/2005
+author: Unknown
 categories: Poetry
+date: 20/12/2005
 layout: post
+title: "Khi Bi\xEA\u0301t La\u0300 m Ng\u01B0\u01A1\u0300i-Y\xEAu-Th\u01B0\u01A1ng"
 ---
 
 **Khi Biết Là m Người-Yêu-Thương**

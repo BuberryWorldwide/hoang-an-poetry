@@ -1,8 +1,9 @@
 ---
-title: "Thuở Ấy Bâng-Khuâng (1)"
-date: 18/05/2007
+author: Unknown
 categories: Poetry
+date: 18/05/2007
 layout: post
+title: "Thu\u01A1\u0309 \xC2\u0301y B\xE2ng-Khu\xE2ng (1)"
 ---
 
 **Thuở Ấy Bâng-Khuâng (1)**

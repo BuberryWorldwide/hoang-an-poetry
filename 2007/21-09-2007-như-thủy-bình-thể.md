@@ -1,8 +1,9 @@
 ---
-title: "Như Thủy Bình Thể"
-date: 21/09/2007
+author: Unknown
 categories: Poetry
+date: 21/09/2007
 layout: post
+title: "Nh\u01B0 Thu\u0309y Bi\u0300nh Th\xEA\u0309"
 ---
 
 **Như Thủy Bình Thể**

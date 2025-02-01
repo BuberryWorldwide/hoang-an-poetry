@@ -1,8 +1,9 @@
 ---
-title: "Em Yêu Anh Với Tất-Cả Hiện-Sinh Em"
-date: 23/03/2006
+author: Unknown
 categories: Poetry
+date: 23/03/2006
 layout: post
+title: "Em Y\xEAu Anh V\u01A1\u0301i T\xE2\u0301t-Ca\u0309 Hi\xEA\u0323n-Sinh Em"
 ---
 
 **Em Yêu Anh Với Tất-Cả Hiện-Sinh Em**

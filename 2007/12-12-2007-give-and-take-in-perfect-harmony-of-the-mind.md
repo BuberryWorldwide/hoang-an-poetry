@@ -1,8 +1,9 @@
 ---
-title: "Give and Take in Perfect Harmony of The Mind"
-date: 12/12/2007
+author: Unknown
 categories: Poetry
+date: 12/12/2007
 layout: post
+title: Give and Take in Perfect Harmony of The Mind
 ---
 
 **Give and Take in Perfect Harmony of The Mind**

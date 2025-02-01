@@ -1,8 +1,9 @@
 ---
-title: "Người Hoa Thêm Một Lần Minh-Họa"
-date: 24/01/2013
+author: Unknown
 categories: Poetry
+date: 24/01/2013
 layout: post
+title: "Ng\u01B0\u01A1\u0300i Hoa Th\xEAm M\xF4\u0323t L\xE2\u0300n Minh-Ho\u0323a"
 ---
 
 **Người Hoa Thêm Một Lần Minh-Họa**

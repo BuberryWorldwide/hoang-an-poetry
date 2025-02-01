@@ -1,8 +1,9 @@
 ---
-title: "Tình Yêu Là  Có Thật"
-date: 26/06/2012
+author: Unknown
 categories: Poetry
+date: 26/06/2012
 layout: post
+title: "Ti\u0300nh Y\xEAu La\u0300  Co\u0301 Th\xE2\u0323t"
 ---
 
 **Tình Yêu Là  Có Thật**

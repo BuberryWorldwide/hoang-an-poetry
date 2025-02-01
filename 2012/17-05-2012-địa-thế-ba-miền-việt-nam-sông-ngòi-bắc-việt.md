@@ -1,8 +1,10 @@
 ---
-title: "đỊA-THẾ BA MIỀN VIỆT-NAM: SÔNG NGÒI: BẮC-VIỆT"
-date: 17/05/2012
+author: Unknown
 categories: Poetry
+date: 17/05/2012
 layout: post
+title: "\u0111I\u0323A-TH\xCA\u0301 BA MI\xCA\u0300N VI\u1EC6T-NAM: S\xD4NG NG\xD2\
+  I: B\u0102\u0301C-VI\u1EC6T"
 ---
 
 **đỊA-THẾ BA MIỀN VIỆT-NAM: SÔNG NGÒI: BẮC-VIỆT**

@@ -1,8 +1,9 @@
 ---
-title: "Bà i Thơ Vô-Khả-Thi"
-date: 04/01/2007
+author: Unknown
 categories: Poetry
+date: 04/01/2007
 layout: post
+title: "Ba\u0300 i Th\u01A1 V\xF4-Kha\u0309-Thi"
 ---
 
 **Bà i Thơ Vô-Khả-Thi**

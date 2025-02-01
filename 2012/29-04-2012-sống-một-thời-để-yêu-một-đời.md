@@ -1,8 +1,10 @@
 ---
-title: "SỐNG MỘT THỜI đỂ YÊU MỘT đỜI"
-date: 29/04/2012
+author: Unknown
 categories: Poetry
+date: 29/04/2012
 layout: post
+title: "S\u1ED0NG M\xD4\u0323T TH\u01A0\u0300I \u0111\u1EC2 Y\xCAU M\xD4\u0323T \u0111\
+  \u01A0\u0300I"
 ---
 
 **SỐNG MỘT THỜI đỂ YÊU MỘT đỜI**

@@ -1,8 +1,9 @@
 ---
-title: "THE ULTIMA OF AN ULTIMATUM"
-date: 07/05/2007
+author: Unknown
 categories: Poetry
+date: 07/05/2007
 layout: post
+title: THE ULTIMA OF AN ULTIMATUM
 ---
 
 **THE ULTIMA OF AN ULTIMATUM**

@@ -1,8 +1,10 @@
 ---
-title: "Tình Vị Muối Của Giọt Lệ Khôn Ứa Tuôn"
-date: 15/12/2005
+author: Unknown
 categories: Poetry
+date: 15/12/2005
 layout: post
+title: "Ti\u0300nh Vi\u0323 Mu\xF4\u0301i Cu\u0309a Gio\u0323t L\xEA\u0323 Kh\xF4\
+  n \u01AF\u0301a Tu\xF4n"
 ---
 
 **Tình Vị Muối Của Giọt Lệ Khôn Ứa Tuôn**

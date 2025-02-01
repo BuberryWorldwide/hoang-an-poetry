@@ -1,8 +1,10 @@
 ---
-title: "Hy-Vọng: Nguồn Năng-Lực của Tiến-Trình Tiến-Hóa Xã-Hội"
-date: 25/11/2006
+author: Unknown
 categories: Poetry
+date: 25/11/2006
 layout: post
+title: "Hy-Vo\u0323ng: Ngu\xF4\u0300n N\u0103ng-L\u01B0\u0323c cu\u0309a Ti\xEA\u0301\
+  n-Tri\u0300nh Ti\xEA\u0301n-Ho\u0301a Xa\u0303-H\xF4\u0323i"
 ---
 
 **Hy-Vọng: Nguồn Năng-Lực của Tiến-Trình Tiến-Hóa Xã-Hội**

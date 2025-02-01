@@ -1,8 +1,9 @@
 ---
-title: "Trời Ơ i...Thương Quá..!!"
-date: 02/08/2007
+author: Unknown
 categories: Poetry
+date: 02/08/2007
 layout: post
+title: "Tr\u01A1\u0300i \u01A0 i...Th\u01B0\u01A1ng Qua\u0301..!!"
 ---
 
 **Trời Ơ i...Thương Quá..!!**

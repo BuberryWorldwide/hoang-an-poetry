@@ -1,8 +1,9 @@
 ---
-title: "Chân Tình Xuống Phố"
-date: 28/12/2005
+author: Unknown
 categories: Poetry
+date: 28/12/2005
 layout: post
+title: "Ch\xE2n Ti\u0300nh Xu\xF4\u0301ng Ph\xF4\u0301"
 ---
 
 **Chân Tình Xuống Phố**

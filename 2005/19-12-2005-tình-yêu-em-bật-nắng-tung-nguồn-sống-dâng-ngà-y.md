@@ -1,8 +1,10 @@
 ---
-title: "Tình-Yêu Em: Bật Nắng Tung Nguồn Sống Dâng Ngà y"
-date: 19/12/2005
+author: Unknown
 categories: Poetry
+date: 19/12/2005
 layout: post
+title: "Ti\u0300nh-Y\xEAu Em: B\xE2\u0323t N\u0103\u0301ng Tung Ngu\xF4\u0300n S\xF4\
+  \u0301ng D\xE2ng Nga\u0300 y"
 ---
 
 **Tình-Yêu Em: Bật Nắng Tung Nguồn Sống Dâng Ngà y**

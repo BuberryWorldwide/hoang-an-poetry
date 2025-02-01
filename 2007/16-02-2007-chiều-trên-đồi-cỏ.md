@@ -1,8 +1,9 @@
 ---
-title: "Chiều Trên đồi Cỏ"
-date: 16/02/2007
+author: Unknown
 categories: Poetry
+date: 16/02/2007
 layout: post
+title: "Chi\xEA\u0300u Tr\xEAn \u0111\xF4\u0300i Co\u0309"
 ---
 
 **Chiều Trên đồi Cỏ**

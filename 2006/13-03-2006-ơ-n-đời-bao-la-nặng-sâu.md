@@ -1,8 +1,9 @@
 ---
-title: "Ơ n đời Bao-La Nặng Sâu"
-date: 13/03/2006
+author: Unknown
 categories: Poetry
+date: 13/03/2006
 layout: post
+title: "\u01A0 n \u0111\u01A1\u0300i Bao-La N\u0103\u0323ng S\xE2u"
 ---
 
 **Ơ n đời Bao-La Nặng Sâu**

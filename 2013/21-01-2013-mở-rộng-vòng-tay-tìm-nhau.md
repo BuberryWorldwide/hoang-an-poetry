@@ -1,8 +1,9 @@
 ---
-title: "Mở Rộng Vòng Tay Tìm Nhau"
-date: 21/01/2013
+author: Unknown
 categories: Poetry
+date: 21/01/2013
 layout: post
+title: "M\u01A1\u0309 R\xF4\u0323ng Vo\u0300ng Tay Ti\u0300m Nhau"
 ---
 
 **Mở Rộng Vòng Tay Tìm Nhau**

@@ -1,8 +1,9 @@
 ---
-title: "Cùng Cá Giởn Trăng"
-date: 09/05/2012
+author: Unknown
 categories: Poetry
+date: 09/05/2012
 layout: post
+title: "Cu\u0300ng Ca\u0301 Gi\u01A1\u0309n Tr\u0103ng"
 ---
 
 **Cùng Cá Giởn Trăng**

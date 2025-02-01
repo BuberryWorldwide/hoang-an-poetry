@@ -1,8 +1,9 @@
 ---
-title: "No Life Without Movement"
-date: 04/01/2007
+author: Unknown
 categories: Poetry
+date: 04/01/2007
 layout: post
+title: No Life Without Movement
 ---
 
 **No Life Without Movement**

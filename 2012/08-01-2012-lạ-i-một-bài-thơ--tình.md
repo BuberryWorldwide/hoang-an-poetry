@@ -1,8 +1,9 @@
 ---
-title: "LẠ I MỘT BÀI THƠ  TÌNH"
-date: 08/01/2012
+author: Unknown
 categories: Poetry
+date: 08/01/2012
 layout: post
+title: "LA\u0323 I M\xD4\u0323T B\xC0I TH\u01A0  T\xCCNH"
 ---
 
 **LẠ I MỘT BÀI THƠ  TÌNH**

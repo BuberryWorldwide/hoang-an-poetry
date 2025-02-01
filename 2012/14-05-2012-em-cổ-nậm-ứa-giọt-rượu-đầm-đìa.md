@@ -1,8 +1,10 @@
 ---
-title: "EM, CỔ NẬM ỨA GIỌT RƯỢU đẦM-đÌA"
-date: 14/05/2012
+author: Unknown
 categories: Poetry
+date: 14/05/2012
 layout: post
+title: "EM, C\u1ED4 N\u1EACM \u01AF\u0301A GIO\u0323T R\u01AF\u01A0\u0323U \u0111\u1EA6\
+  M-\u0111\xCCA"
 ---
 
 **EM, CỔ NẬM ỨA GIỌT RƯỢU đẦM-đÌA**

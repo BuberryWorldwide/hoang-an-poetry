@@ -1,8 +1,9 @@
 ---
-title: "freedom of thought"
-date: 05/11/2013
+author: Unknown
 categories: Poetry
+date: 05/11/2013
 layout: post
+title: freedom of thought
 ---
 
 **freedom of thought**

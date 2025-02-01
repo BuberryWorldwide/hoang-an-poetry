@@ -1,8 +1,9 @@
 ---
-title: "tình bông lúa thơm"
-date: 26/07/2007
+author: Unknown
 categories: Poetry
+date: 26/07/2007
 layout: post
+title: "ti\u0300nh b\xF4ng lu\u0301a th\u01A1m"
 ---
 
 **tình bông lúa thơm**

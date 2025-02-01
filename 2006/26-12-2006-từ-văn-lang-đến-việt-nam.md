@@ -1,8 +1,9 @@
 ---
-title: "Từ Văn-Lang đến Việt-Nam"
-date: 26/12/2006
+author: Unknown
 categories: Poetry
+date: 26/12/2006
 layout: post
+title: "T\u01B0\u0300 V\u0103n-Lang \u0111\xEA\u0301n Vi\xEA\u0323t-Nam"
 ---
 
 **Từ Văn-Lang đến Việt-Nam**

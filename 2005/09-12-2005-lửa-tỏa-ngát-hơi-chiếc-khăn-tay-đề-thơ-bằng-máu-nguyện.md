@@ -1,8 +1,10 @@
 ---
-title: "Lửa Tỏa Ngát Hơi: chiếc khăn tay đề thơ bằng máu nguyện"
-date: 09/12/2005
+author: Unknown
 categories: Poetry
+date: 09/12/2005
 layout: post
+title: "L\u01B0\u0309a To\u0309a Nga\u0301t H\u01A1i: chi\xEA\u0301c kh\u0103n tay\
+  \ \u0111\xEA\u0300 th\u01A1 b\u0103\u0300ng ma\u0301u nguy\xEA\u0323n"
 ---
 
 **Lửa Tỏa Ngát Hơi: chiếc khăn tay đề thơ bằng máu nguyện**

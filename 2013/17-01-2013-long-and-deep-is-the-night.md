@@ -1,8 +1,9 @@
 ---
-title: "Long And Deep Is The Night"
-date: 17/01/2013
+author: Unknown
 categories: Poetry
+date: 17/01/2013
 layout: post
+title: Long And Deep Is The Night
 ---
 
 **Long And Deep Is The Night**

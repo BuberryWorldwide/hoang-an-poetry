@@ -1,8 +1,9 @@
 ---
-title: "Giấc Mộng Mầu Hồng"
-date: 24/05/2012
+author: Unknown
 categories: Poetry
+date: 24/05/2012
 layout: post
+title: "Gi\xE2\u0301c M\xF4\u0323ng M\xE2\u0300u H\xF4\u0300ng"
 ---
 
 **Giấc Mộng Mầu Hồng**

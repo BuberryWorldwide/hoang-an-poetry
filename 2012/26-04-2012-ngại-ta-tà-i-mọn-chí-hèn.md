@@ -1,8 +1,9 @@
 ---
-title: "Ngại Ta Tà i Mọn Chí Hèn"
-date: 26/04/2012
+author: Unknown
 categories: Poetry
+date: 26/04/2012
 layout: post
+title: "Nga\u0323i Ta Ta\u0300 i Mo\u0323n Chi\u0301 He\u0300n"
 ---
 
 **Ngại Ta Tà i Mọn Chí Hèn**

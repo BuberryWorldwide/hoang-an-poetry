@@ -1,8 +1,9 @@
 ---
-title: "Lời Trăng Sao Gọi"
-date: 31/12/2005
+author: Unknown
 categories: Poetry
+date: 31/12/2005
 layout: post
+title: "L\u01A1\u0300i Tr\u0103ng Sao Go\u0323i"
 ---
 
 **Lời Trăng Sao Gọi**

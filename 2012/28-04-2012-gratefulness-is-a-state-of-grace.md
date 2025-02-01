@@ -1,8 +1,9 @@
 ---
-title: "Gratefulness Is A State Of Grace"
-date: 28/04/2012
+author: Unknown
 categories: Poetry
+date: 28/04/2012
 layout: post
+title: Gratefulness Is A State Of Grace
 ---
 
 **Gratefulness Is A State Of Grace**

@@ -1,8 +1,9 @@
 ---
-title: "In Time Of Peace"
-date: 26/04/2007
+author: Unknown
 categories: Poetry
+date: 26/04/2007
 layout: post
+title: In Time Of Peace
 ---
 
 **In Time Of Peace**

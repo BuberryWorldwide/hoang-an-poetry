@@ -1,8 +1,9 @@
 ---
-title: "CÁCH-MẠ NG TRONG LẺ đẠ O"
-date: 16/12/2007
+author: Unknown
 categories: Poetry
+date: 16/12/2007
 layout: post
+title: "C\xC1CH-MA\u0323 NG TRONG L\u1EBA \u0111A\u0323 O"
 ---
 
 **CÁCH-MẠ NG TRONG LẺ đẠ O**

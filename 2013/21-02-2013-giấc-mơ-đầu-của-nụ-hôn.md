@@ -1,8 +1,9 @@
 ---
-title: "Giấc Mơ đầu Của Nụ Hôn"
-date: 21/02/2013
+author: Unknown
 categories: Poetry
+date: 21/02/2013
 layout: post
+title: "Gi\xE2\u0301c M\u01A1 \u0111\xE2\u0300u Cu\u0309a Nu\u0323 H\xF4n"
 ---
 
 **Giấc Mơ đầu Của Nụ Hôn**

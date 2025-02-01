@@ -1,8 +1,9 @@
 ---
-title: "Ứng-Khẩu Thà nh Thơ Khi Nhớ Nhau"
-date: 24/01/2013
+author: Unknown
 categories: Poetry
+date: 24/01/2013
 layout: post
+title: "\u01AF\u0301ng-Kh\xE2\u0309u Tha\u0300 nh Th\u01A1 Khi Nh\u01A1\u0301 Nhau"
 ---
 
 **Ứng-Khẩu Thà nh Thơ Khi Nhớ Nhau**

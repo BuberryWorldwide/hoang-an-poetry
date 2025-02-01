@@ -1,8 +1,10 @@
 ---
-title: "Nghi-Thức Tình Yêu: cho yêu Anh và  chỉ để thưa Yêu Anh..."
-date: 02/12/2005
+author: Unknown
 categories: Poetry
+date: 02/12/2005
 layout: post
+title: "Nghi-Th\u01B0\u0301c Ti\u0300nh Y\xEAu: cho y\xEAu Anh va\u0300  chi\u0309\
+  \ \u0111\xEA\u0309 th\u01B0a Y\xEAu Anh..."
 ---
 
 **Nghi-Thức Tình Yêu: cho yêu Anh và  chỉ để thưa Yêu Anh...**

@@ -1,8 +1,10 @@
 ---
-title: "Thương Ơ i: Nhớ Lắm Giọng Cười Nắng Reo"
-date: 24/12/2005
+author: Unknown
 categories: Poetry
+date: 24/12/2005
 layout: post
+title: "Th\u01B0\u01A1ng \u01A0 i: Nh\u01A1\u0301 L\u0103\u0301m Gio\u0323ng C\u01B0\
+  \u01A1\u0300i N\u0103\u0301ng Reo"
 ---
 
 **Thương Ơ i: Nhớ Lắm Giọng Cười Nắng Reo**

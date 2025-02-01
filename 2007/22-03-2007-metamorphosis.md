@@ -1,8 +1,9 @@
 ---
-title: "Metamorphosis"
-date: 22/03/2007
+author: Unknown
 categories: Poetry
+date: 22/03/2007
 layout: post
+title: Metamorphosis
 ---
 
 **Metamorphosis**

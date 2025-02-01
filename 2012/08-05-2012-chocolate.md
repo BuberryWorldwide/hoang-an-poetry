@@ -1,8 +1,9 @@
 ---
-title: "...ch...o...co...late"
-date: 08/05/2012
+author: Unknown
 categories: Poetry
+date: 08/05/2012
 layout: post
+title: '...ch...o...co...late'
 ---
 
 **...ch...o...co...late**

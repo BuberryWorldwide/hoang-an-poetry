@@ -1,8 +1,9 @@
 ---
-title: "Bát Canh Xương Rồng"
-date: 11/05/2012
+author: Unknown
 categories: Poetry
+date: 11/05/2012
 layout: post
+title: "Ba\u0301t Canh X\u01B0\u01A1ng R\xF4\u0300ng"
 ---
 
 **Bát Canh Xương Rồng**

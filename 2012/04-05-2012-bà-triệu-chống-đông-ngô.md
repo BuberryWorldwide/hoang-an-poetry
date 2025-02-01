@@ -1,8 +1,9 @@
 ---
-title: "BÀ TRIỆU CHỐNG đÔNG-NGÔ"
-date: 04/05/2012
+author: Unknown
 categories: Poetry
+date: 04/05/2012
 layout: post
+title: "B\xC0 TRI\u1EC6U CH\u1ED0NG \u0111\xD4NG-NG\xD4"
 ---
 
 **BÀ TRIỆU CHỐNG đÔNG-NGÔ**

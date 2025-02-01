@@ -1,8 +1,9 @@
 ---
-title: "The Incompletion Of Desires"
-date: 12/09/2007
+author: Unknown
 categories: Poetry
+date: 12/09/2007
 layout: post
+title: The Incompletion Of Desires
 ---
 
 **The Incompletion Of Desires**

@@ -1,8 +1,9 @@
 ---
-title: "Nhè Nhẹ Bà n Tay"
-date: 30/08/2007
+author: Unknown
 categories: Poetry
+date: 30/08/2007
 layout: post
+title: "Nhe\u0300 Nhe\u0323 Ba\u0300 n Tay"
 ---
 
 **Nhè Nhẹ Bà n Tay**

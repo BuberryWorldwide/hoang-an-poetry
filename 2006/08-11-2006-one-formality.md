@@ -1,8 +1,9 @@
 ---
-title: "One Formality"
-date: 08/11/2006
+author: Unknown
 categories: Poetry
+date: 08/11/2006
 layout: post
+title: One Formality
 ---
 
 **One Formality**

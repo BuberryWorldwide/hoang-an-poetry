@@ -1,8 +1,9 @@
 ---
-title: "Renewing Hope"
-date: 20/10/2006
+author: Unknown
 categories: Poetry
+date: 20/10/2006
 layout: post
+title: Renewing Hope
 ---
 
 **Renewing Hope**

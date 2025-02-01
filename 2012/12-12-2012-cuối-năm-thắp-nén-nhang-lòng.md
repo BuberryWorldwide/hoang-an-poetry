@@ -1,8 +1,9 @@
 ---
-title: "Cuối Năm Thắp Nén Nhang Lòng"
-date: 12/12/2012
+author: Unknown
 categories: Poetry
+date: 12/12/2012
 layout: post
+title: "Cu\xF4\u0301i N\u0103m Th\u0103\u0301p Ne\u0301n Nhang Lo\u0300ng"
 ---
 
 **Cuối Năm Thắp Nén Nhang Lòng**

@@ -1,8 +1,9 @@
 ---
-title: "NHỮNG CHÀNG KINH-KHA THỜI-đẠ I"
-date: 18/01/2013
+author: Unknown
 categories: Poetry
+date: 18/01/2013
 layout: post
+title: "NH\u01AF\u0303NG CH\xC0NG KINH-KHA TH\u01A0\u0300I-\u0111A\u0323 I"
 ---
 
 **NHỮNG CHÀNG KINH-KHA THỜI-đẠ I**

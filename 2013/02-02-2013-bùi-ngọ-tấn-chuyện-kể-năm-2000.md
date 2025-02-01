@@ -1,8 +1,9 @@
 ---
-title: "BÙI NGỌ TẤN: CHUYỆN KỂ NĂM 2000"
-date: 02/02/2013
+author: Unknown
 categories: Poetry
+date: 02/02/2013
 layout: post
+title: "B\xD9I NGO\u0323 T\xC2\u0301N: CHUY\u1EC6N K\u1EC2 N\u0102M 2000"
 ---
 
 **BÙI NGỌ TẤN: CHUYỆN KỂ NĂM 2000**

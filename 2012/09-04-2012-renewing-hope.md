@@ -1,8 +1,9 @@
 ---
-title: "Renewing Hope"
-date: 09/04/2012
+author: Unknown
 categories: Poetry
+date: 09/04/2012
 layout: post
+title: Renewing Hope
 ---
 
 **Renewing Hope**

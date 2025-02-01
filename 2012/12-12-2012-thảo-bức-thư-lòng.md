@@ -1,8 +1,9 @@
 ---
-title: "Thảo Bức Thư Lòng"
-date: 12/12/2012
+author: Unknown
 categories: Poetry
+date: 12/12/2012
 layout: post
+title: "Tha\u0309o B\u01B0\u0301c Th\u01B0 Lo\u0300ng"
 ---
 
 **Thảo Bức Thư Lòng**

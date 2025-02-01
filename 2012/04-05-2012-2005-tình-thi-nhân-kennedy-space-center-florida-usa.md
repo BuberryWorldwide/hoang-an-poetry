@@ -1,8 +1,9 @@
 ---
-title: "2005: Tình Thi-Nhân: Kennedy Space Center Florida USA"
-date: 04/05/2012
+author: Unknown
 categories: Poetry
+date: 04/05/2012
 layout: post
+title: "2005: Ti\u0300nh Thi-Nh\xE2n: Kennedy Space Center Florida USA"
 ---
 
 **2005: Tình Thi-Nhân: Kennedy Space Center Florida USA**

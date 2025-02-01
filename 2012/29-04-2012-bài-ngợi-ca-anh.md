@@ -1,8 +1,9 @@
 ---
-title: "BÀI NGỢI-CA ANH"
-date: 29/04/2012
+author: Unknown
 categories: Poetry
+date: 29/04/2012
 layout: post
+title: "B\xC0I NG\u01A0\u0323I-CA ANH"
 ---
 
 **BÀI NGỢI-CA ANH**

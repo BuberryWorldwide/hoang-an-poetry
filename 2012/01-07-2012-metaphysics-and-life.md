@@ -1,8 +1,9 @@
 ---
-title: "Metaphysics and Life"
-date: 01/07/2012
+author: Unknown
 categories: Poetry
+date: 01/07/2012
 layout: post
+title: Metaphysics and Life
 ---
 
 **Metaphysics and Life**

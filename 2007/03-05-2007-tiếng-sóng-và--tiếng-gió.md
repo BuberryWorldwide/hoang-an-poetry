@@ -1,8 +1,9 @@
 ---
-title: "Tiếng Sóng Và  Tiếng Gió"
-date: 03/05/2007
+author: Unknown
 categories: Poetry
+date: 03/05/2007
 layout: post
+title: "Ti\xEA\u0301ng So\u0301ng Va\u0300  Ti\xEA\u0301ng Gio\u0301"
 ---
 
 **Tiếng Sóng Và  Tiếng Gió**

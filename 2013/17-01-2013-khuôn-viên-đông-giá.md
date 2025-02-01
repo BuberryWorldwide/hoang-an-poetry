@@ -1,8 +1,9 @@
 ---
-title: "Khuôn-Viên đông Giá"
-date: 17/01/2013
+author: Unknown
 categories: Poetry
+date: 17/01/2013
 layout: post
+title: "Khu\xF4n-Vi\xEAn \u0111\xF4ng Gia\u0301"
 ---
 
 **Khuôn-Viên đông Giá**

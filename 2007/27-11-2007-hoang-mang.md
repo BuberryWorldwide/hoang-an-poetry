@@ -1,8 +1,9 @@
 ---
-title: "Hoang-Mang"
-date: 27/11/2007
+author: Unknown
 categories: Poetry
+date: 27/11/2007
 layout: post
+title: Hoang-Mang
 ---
 
 **Hoang-Mang**

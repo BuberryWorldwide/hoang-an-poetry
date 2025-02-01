@@ -1,8 +1,9 @@
 ---
-title: "Ngôi Sao Ngà y"
-date: 23/07/2007
+author: Unknown
 categories: Poetry
+date: 23/07/2007
 layout: post
+title: "Ng\xF4i Sao Nga\u0300 y"
 ---
 
 **Ngôi Sao Ngà y**

@@ -1,8 +1,10 @@
 ---
-title: "Vườn Cỏ.. Sân Thư-Viện Công.. Westminster, California..."
-date: 14/12/2005
+author: Unknown
 categories: Poetry
+date: 14/12/2005
 layout: post
+title: "V\u01B0\u01A1\u0300n Co\u0309.. S\xE2n Th\u01B0-Vi\xEA\u0323n C\xF4ng.. Westminster,\
+  \ California..."
 ---
 
 **Vườn Cỏ.. Sân Thư-Viện Công.. Westminster, California...**

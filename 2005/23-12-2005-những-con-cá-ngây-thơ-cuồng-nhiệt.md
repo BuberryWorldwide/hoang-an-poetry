@@ -1,8 +1,10 @@
 ---
-title: "Những Con Cá Ngây-Thơ Cuồng-Nhiệt"
-date: 23/12/2005
+author: Unknown
 categories: Poetry
+date: 23/12/2005
 layout: post
+title: "Nh\u01B0\u0303ng Con Ca\u0301 Ng\xE2y-Th\u01A1 Cu\xF4\u0300ng-Nhi\xEA\u0323\
+  t"
 ---
 
 **Những Con Cá Ngây-Thơ Cuồng-Nhiệt**

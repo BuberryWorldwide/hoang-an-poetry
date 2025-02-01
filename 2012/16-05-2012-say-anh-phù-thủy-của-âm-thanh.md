@@ -1,8 +1,9 @@
 ---
-title: "Say Anh: Phù-Thủy Của Âm-Thanh"
-date: 16/05/2012
+author: Unknown
 categories: Poetry
+date: 16/05/2012
 layout: post
+title: "Say Anh: Phu\u0300-Thu\u0309y Cu\u0309a \xC2m-Thanh"
 ---
 
 **Say Anh: Phù-Thủy Của Âm-Thanh**

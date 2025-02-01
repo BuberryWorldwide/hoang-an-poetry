@@ -1,8 +1,10 @@
 ---
-title: "Cầu Ân Phụ-Mẫu Nệ Gì Cách-Ngăn"
-date: 18/12/2005
+author: Unknown
 categories: Poetry
+date: 18/12/2005
 layout: post
+title: "C\xE2\u0300u \xC2n Phu\u0323-M\xE2\u0303u N\xEA\u0323 Gi\u0300 Ca\u0301ch-Ng\u0103\
+  n"
 ---
 
 **Cầu Ân Phụ-Mẫu Nệ Gì Cách-Ngăn**

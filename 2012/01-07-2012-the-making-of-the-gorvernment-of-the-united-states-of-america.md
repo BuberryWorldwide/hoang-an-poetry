@@ -1,8 +1,9 @@
 ---
-title: "The Making Of The Gorvernment Of The United States Of America"
-date: 01/07/2012
+author: Unknown
 categories: Poetry
+date: 01/07/2012
 layout: post
+title: The Making Of The Gorvernment Of The United States Of America
 ---
 
 **The Making Of The Gorvernment Of The United States Of America**

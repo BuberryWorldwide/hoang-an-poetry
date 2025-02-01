@@ -1,8 +1,9 @@
 ---
-title: "Ugliness and Beauty"
-date: 05/10/2006
+author: Unknown
 categories: Poetry
+date: 05/10/2006
 layout: post
+title: Ugliness and Beauty
 ---
 
 **Ugliness and Beauty**

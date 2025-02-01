@@ -1,8 +1,9 @@
 ---
-title: "I have seen perfection in my Beloved"
-date: 13/03/2014
+author: Unknown
 categories: Poetry
+date: 13/03/2014
 layout: post
+title: I have seen perfection in my Beloved
 ---
 
 **I have seen perfection in my Beloved**
